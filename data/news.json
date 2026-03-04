@@ -1,0 +1,149 @@
+[
+  {
+    "title": "New paper in Lancet Oncology on deep learning for breast cancer recurrence prediction",
+    "date": "2026-02-01",
+    "category": "publication",
+    "url": null,
+    "content": "Our collaborative paper with Kimmel et al. on deep learning applied to histopathological images to predict breast cancer recurrence risk and chemotherapy benefit has been accepted to Lancet Oncology."
+  },
+  {
+    "title": "xCell 2.0 published in Genome Biology",
+    "date": "2025-06-01",
+    "category": "publication",
+    "url": "https://doi.org/10.1186/s13059-025-03784-3",
+    "content": "Almog Angel's xCell 2.0 paper is out in Genome Biology! The new algorithm provides robust cell type proportion estimation and predicts response to immune checkpoint blockade."
+  },
+  {
+    "title": "CellMentor published in Nature Communications",
+    "date": "2025-06-01",
+    "category": "publication",
+    "url": null,
+    "content": "Or Hevdeli and Kate Petrenko's CellMentor paper on cell-type aware dimensionality reduction is published in Nature Communications."
+  },
+  {
+    "title": "SLAYER published in NAR Genomics and Bioinformatics",
+    "date": "2025-06-01",
+    "category": "publication",
+    "url": "https://doi.org/10.1093/nargab/lqaf052",
+    "content": "Ziv Cohen and Kate Petrenko's SLAYER framework for identifying synthetic lethal interactions is published in NAR Genomics and Bioinformatics."
+  },
+  {
+    "title": "Fine-Pruning published in Patterns",
+    "date": "2025-05-01",
+    "category": "publication",
+    "url": null,
+    "content": "Joey Bingham's Fine-Pruning algorithm for personalized machine learning is published in Patterns."
+  },
+  {
+    "title": "Dvir invited to EACR 2025 and Broad-Israel Consortium",
+    "date": "2025-06-01",
+    "category": "presentation",
+    "url": null,
+    "content": "Dvir was invited to speak at the EACR Annual Congress in Lisbon and the Broad-Israel Biomedical Consortium in Cambridge."
+  },
+  {
+    "title": "New ISF Grant: Deciphering Brain Metastasis Microenvironments (1.35M NIS)",
+    "date": "2025-01-01",
+    "category": "grant",
+    "url": null,
+    "content": "Dvir received a new Israel Science Foundation grant (2025-2030) for the project 'Deciphering Brain Metastasis Microenvironments Through Single-Cell RNA Sequencing to Enhance Immunotherapy', 1.35M NIS."
+  },
+  {
+    "title": "Dvir appointed Individual Expert at European Innovation Council",
+    "date": "2025-01-01",
+    "category": "prize",
+    "url": null,
+    "content": "Dvir has been appointed as an Individual Expert for the European Innovation Council (EIC)."
+  },
+  {
+    "title": "Moshe Zisser's paper on transformer-based CKD prediction in JAMIA",
+    "date": "2024-02-14",
+    "category": "publication",
+    "url": "https://doi.org/10.1093/jamia/ocae025",
+    "content": "Moshe Zisser's paper on transformer-based time-to-event prediction for chronic kidney disease deterioration published in JAMIA."
+  },
+  {
+    "title": "Comparative efficacy of immunotherapy in melanoma published in BJC Reports",
+    "date": "2024-02-13",
+    "category": "publication",
+    "url": "https://doi.org/10.1038/s44276-024-00041-1",
+    "content": "Our collaborative paper with Carelon Digital Platforms comparing CTLA-4 and PD-1 blockade vs PD-1 monotherapy in metastatic melanoma published in BJC Reports."
+  },
+  {
+    "title": "GPT-4 for clinical decision support preprint",
+    "date": "2024-01-27",
+    "category": "publication",
+    "url": null,
+    "content": "Preprint evaluating GPT-4 as a clinical decision support tool in ischemic stroke management with Shahar Shelly posted on medRxiv."
+  },
+  {
+    "title": "Exhausted γδ T cells in kidney cancer published in Nature Immunology",
+    "date": "2023-03-01",
+    "category": "publication",
+    "url": "https://doi.org/10.1038/s41590-023-01448-7",
+    "content": "Collaborative paper with the Fong lab on exhausted intratumoral γδ T cells in kidney cancer published in Nature Immunology."
+  },
+  {
+    "title": "Dvir invited to The Wistar Institute Distinguished Lectures",
+    "date": "2023-03-28",
+    "category": "presentation",
+    "url": null,
+    "content": "Dvir delivered a Distinguished Lecture in Cancer Research at The Wistar Institute, Philadelphia."
+  },
+  {
+    "title": "FOLFIRINOX vs Gemcitabine comparison published in JAMA Network Open",
+    "date": "2022-06-01",
+    "category": "publication",
+    "url": "https://doi.org/10.1001/jamanetworkopen.2022.16199",
+    "content": "Our real-world comparison of chemotherapy regimens for metastatic pancreatic cancer published in JAMA Network Open."
+  },
+  {
+    "title": "ISF Research Grant awarded",
+    "date": "2021-07-27",
+    "category": "grant",
+    "url": null,
+    "content": "Dvir awarded an Israel Science Foundation grant for evaluating the effects of biological therapies on the metastatic microenvironment using single-cell transcriptomics (1.08M + 800K NIS equipment)."
+  },
+  {
+    "title": "First Digital Medicine Conference in Israel",
+    "date": "2021-06-29",
+    "category": "general",
+    "url": null,
+    "content": "Dvir co-organized the first Digital Medicine Conference in Israel with Prof. Ron Shamir."
+  },
+  {
+    "title": "Nature Neuroscience paper on CNS fibroblasts",
+    "date": "2021-02-01",
+    "category": "publication",
+    "url": "https://doi.org/10.1038/s41593-020-00770-9",
+    "content": "Collaborative paper with Daneman and Arnold labs on CNS fibroblasts forming fibrotic scars published in Nature Neuroscience."
+  },
+  {
+    "title": "COVID-19 vaccine effectiveness study featured in Bloomberg, The Telegraph",
+    "date": "2021-02-11",
+    "category": "media",
+    "url": null,
+    "content": "Our real-world COVID-19 vaccination effectiveness preprint was featured in Bloomberg, The Telegraph, and other major news outlets."
+  },
+  {
+    "title": "COVID and Common Cold paper published",
+    "date": "2020-11-20",
+    "category": "publication",
+    "url": "https://doi.org/10.1016/j.jinf.2020.10.023",
+    "content": "Our paper showing prior presumed coronavirus infection reduces COVID-19 risk published in the Journal of Infection."
+  },
+  {
+    "title": "Dvir awarded the Andre Deloro Career Advancement Chair",
+    "date": "2020-10-22",
+    "category": "prize",
+    "url": null,
+    "content": "Dvir was awarded the Andre Deloro Career Advancement Chair at the Technion."
+  },
+  {
+    "title": "Dvir awarded the Azrieli Faculty Fellowship",
+    "date": "2020-06-07",
+    "category": "prize",
+    "url": null,
+    "content": "Dvir was awarded the prestigious Azrieli Faculty Fellowship."
+  }
+]

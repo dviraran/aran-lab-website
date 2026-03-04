@@ -1,0 +1,245 @@
+[
+  {
+    "slug": "dvir-aran",
+    "name": "Dvir Aran",
+    "role": "Assistant Professor",
+    "group_type": "pi",
+    "bio": "I am an Assistant Professor at the Faculty of Biology and the Taub Faculty of Computer Science at the Technion. My research focuses on developing computational methodologies for biomedical data analysis, with emphasis on single-cell transcriptomics, tumor microenvironment characterization, and machine learning applications in healthcare. Previously, I was a postdoctoral fellow at UCSF and Stanford with Prof. Atul Butte, and a Senior Data Scientist at Anthem.ai.",
+    "photo_url": "/images/members/dvir-aran.jpg",
+    "email": "dviraran@technion.ac.il",
+    "twitter_url": "https://twitter.com/dvir_a",
+    "scholar_url": "https://scholar.google.com/citations?user=-hr7rD8AAAAJ",
+    "github_url": "https://github.com/dviraran",
+    "orcid": "0000-0001-6334-5039",
+    "research_focus": "Computational biology, single-cell transcriptomics, precision medicine",
+    "display_order": 1
+  },
+  {
+    "slug": "chen-yanovich",
+    "name": "Chen Yanovich-Ben-Uriel",
+    "role": "Lab Manager",
+    "group_type": "current",
+    "bio": "Lab Manager with a PhD from the Technion (2022). Manages day-to-day lab operations and supports all research activities.",
+    "photo_url": "/images/members/chen-yanovich.jpg",
+    "email": "cheny@technion.ac.il",
+    "research_focus": "Lab management and research support",
+    "display_order": 2
+  },
+  {
+    "slug": "joseph-bingham",
+    "name": "Joseph (Joey) Bingham",
+    "role": "Postdoctoral Fellow",
+    "group_type": "current",
+    "bio": "Postdoctoral Fellow with a PhD in Electrical Engineering from Rutgers University (2023). Research focuses on machine learning approaches for personalized medicine and cellular data analysis.",
+    "photo_url": "/images/members/joseph-bingham.jpg",
+    "email": "jbingham@campus.technion.ac.il",
+    "linkedin_url": "https://www.linkedin.com/in/joseph-bingham-phd",
+    "scholar_url": "https://scholar.google.com/citations?user=josephbingham",
+    "research_focus": "Machine learning, personalized medicine, fairness in ML",
+    "display_order": 3
+  },
+  {
+    "slug": "almog-angel",
+    "name": "Almog Angel",
+    "role": "PhD Candidate",
+    "group_type": "current",
+    "bio": "PhD candidate in Biology (2021–present). Working on understanding the effect of treatment strategies on the metastatic microenvironment using single-cell transcriptomics. Lead developer of xCell 2.0.",
+    "photo_url": "/images/members/almog-angel.jpg",
+    "email": "almogangel@campus.technion.ac.il",
+    "linkedin_url": "https://www.linkedin.com/in/almogangel/",
+    "github_url": "https://github.com/AlmogAngel",
+    "research_focus": "Metastatic tumor microenvironment, xCell 2.0",
+    "display_order": 4
+  },
+  {
+    "slug": "zhongyang-lin",
+    "name": "Zhongyang Lin",
+    "role": "PhD Candidate",
+    "group_type": "current",
+    "bio": "PhD candidate in Biology (2022–present). Studying cellular dynamics of the tumor microenvironment in response to immune checkpoint blockade therapy. MSc in Medicine from Fujian Medical University (2021).",
+    "photo_url": "/images/members/zhongyang-lin.jpg",
+    "email": "zhongyanglin@campus.technion.ac.il",
+    "research_focus": "Tumor immune microenvironment, checkpoint immunotherapy",
+    "display_order": 5
+  },
+  {
+    "slug": "barak-gutman",
+    "name": "Barak Gutman",
+    "role": "MSc Student",
+    "group_type": "current",
+    "bio": "MSc candidate in Biology (2023–present). Working on scRNA-seq analysis of neuroimmunological conditions. BSc in Life and Medical Sciences from Tel Aviv University (2023).",
+    "photo_url": "/images/members/barak-gutman.jpg",
+    "research_focus": "scRNA-seq, neuroimmunology",
+    "display_order": 6
+  },
+  {
+    "slug": "kate-petrenko",
+    "name": "Ekaterina (Kate) Petrenko",
+    "role": "MSc Student",
+    "group_type": "current",
+    "bio": "MSc student in Biology. Researching age-dependent differences in neuroblastoma microenvironment through integrative analysis of human and mouse single-cell RNA sequencing data. Co-advised with Prof. Yuval Shaked.",
+    "photo_url": "/images/members/kate-petrenko.jpg",
+    "research_focus": "Neuroblastoma microenvironment, scRNA-seq",
+    "display_order": 7
+  },
+  {
+    "slug": "alon-hacohen",
+    "name": "Alon Hacohen",
+    "role": "MSc Student",
+    "group_type": "current",
+    "bio": "MSc student in Computer Science (2024–present). Working on domain-based strategies for informed masking in single-cell foundation models. BSc in Computer Science from the Technion (2023).",
+    "photo_url": "/images/members/alon-hacohen.jpg",
+    "email": "alonhacohen@technion.ac.il",
+    "research_focus": "Foundation models, scRNA-seq, deep learning",
+    "display_order": 8
+  },
+  {
+    "slug": "yelena-vysotski",
+    "name": "Yelena Vysotski",
+    "role": "MSc Student",
+    "group_type": "current",
+    "bio": "MSc student in Biology. Working on integrative proteomic analysis and machine learning insights into multiple myeloma progression. BSc in Marine Sciences from Ruppin Academic Center.",
+    "photo_url": "/images/members/yelena-vysotski.jpg",
+    "research_focus": "Proteomics, machine learning, multiple myeloma",
+    "display_order": 9
+  },
+  {
+    "slug": "netanel-arrusy",
+    "name": "Netanel Arrusy",
+    "role": "MSc Student",
+    "group_type": "current",
+    "bio": "MSc student in Computer Science (2024–present). Working on next best action recommendation in clinical predictions using SHAP-based machine learning for early decision support.",
+    "photo_url": "/images/members/netanel-arrusy.jpg",
+    "research_focus": "Clinical ML, SHAP, decision support",
+    "display_order": 10
+  },
+  {
+    "slug": "zohar-shnaider",
+    "name": "Zohar Shnaider",
+    "role": "MSc Student",
+    "group_type": "current",
+    "bio": "MSc student in Electrical Engineering (2024–present). Working on utilizing AI for nutrition intake monitoring in hospitalized patients.",
+    "photo_url": "/images/members/zohar-shnaider.jpg",
+    "research_focus": "AI in healthcare, nutritional monitoring",
+    "display_order": 11
+  },
+  {
+    "slug": "moran-sorka",
+    "name": "Moran Sorka",
+    "role": "PhD Student",
+    "group_type": "current",
+    "bio": "PhD student in Medicine (2024–present). Developing an AI-driven decision support tool for neurologists. Co-advised with Dr. Shahar Shelly.",
+    "photo_url": "/images/members/moran-sorka.jpg",
+    "research_focus": "AI for neurology, clinical decision support",
+    "display_order": 12
+  },
+  {
+    "slug": "loai-naom",
+    "name": "Loai Naom",
+    "role": "MSc (2024)",
+    "group_type": "alumni",
+    "bio": "MSc in Biology. Thesis: Prediction of Response to Immune Checkpoint Blockade Treatments using Tumour Microenvironment Cellular Landscape.",
+    "current_position": "Associate Bioinformatics Scientist at Compugen",
+    "display_order": 100
+  },
+  {
+    "slug": "oren-ploznik",
+    "name": "Oren Ploznik",
+    "role": "MSc (2024)",
+    "group_type": "alumni",
+    "bio": "MSc in Data Science. Thesis: From Single Cells to Higher-Order Representation Learning: Community-Level Analysis in Spatially Resolved Transcriptomics.",
+    "current_position": "PhD candidate at CS Technion",
+    "display_order": 101
+  },
+  {
+    "slug": "or-hevdeli",
+    "name": "Or Hevdeli",
+    "role": "MSc (2023)",
+    "group_type": "alumni",
+    "bio": "MSc in Applied Mathematics. Thesis: Supervised-NMF-based approach for scRNA-seq analysis.",
+    "display_order": 102
+  },
+  {
+    "slug": "ortal-cohen",
+    "name": "Ortal Cohen-Hirszowicz",
+    "role": "MSc (2022)",
+    "group_type": "alumni",
+    "bio": "MSc in Computer Science. Thesis: Using Transformers based Architecture to Model Electronic Health Records of ICU for Blood Stream Infection Prediction.",
+    "current_position": "Algorithm developer at qbiq",
+    "display_order": 103
+  },
+  {
+    "slug": "mahmoud-yazbak",
+    "name": "Mahmoud Yazbak",
+    "role": "MSc (2022)",
+    "group_type": "alumni",
+    "bio": "MSc in Biology. Thesis: Providing context to scRNA-seq cluster analysis using large-scale public transcriptomic data.",
+    "display_order": 104
+  },
+  {
+    "slug": "moshe-zisser",
+    "name": "Moshe Zisser",
+    "role": "MSc (2022)",
+    "group_type": "alumni",
+    "bio": "MSc in Data Science. Thesis: Modeling Time-Series Clinical Data with a Transformer-based Approach for Time-To-Event Prediction.",
+    "display_order": 105
+  },
+  {
+    "slug": "hilla-de-leon",
+    "name": "Hilla De-Leon",
+    "role": "Postdoctoral Fellow (2021–2022)",
+    "group_type": "alumni",
+    "bio": "Postdoctoral Fellow. Worked on COVID-19 modeling and vaccine effectiveness estimation.",
+    "current_position": "Data Scientist at Israel Health Intelligence Agency",
+    "display_order": 106
+  },
+  {
+    "slug": "hanna-yeres-urban",
+    "name": "Hanna Yeres-Urban",
+    "role": "MSc",
+    "group_type": "alumni",
+    "bio": "MSc in Bioinformatics at University of Potsdam. Thesis: Systematic evaluation of established and novel approaches for clustering single cell RNA-sequencing data.",
+    "display_order": 107
+  },
+  {
+    "slug": "florian-neuhaus",
+    "name": "Florian Neuhaus",
+    "role": "Exchange Student (2021)",
+    "group_type": "alumni",
+    "bio": "Exchange student from TUM/LMU Munich. BSc in Bioinformatics.",
+    "display_order": 108
+  },
+  {
+    "slug": "ziv-cohen",
+    "name": "Ziv Cohen",
+    "role": "Research Student",
+    "group_type": "alumni",
+    "bio": "Undergraduate research student. Contributed to SLAYER framework for synthetic lethal interactions.",
+    "display_order": 109
+  },
+  {
+    "slug": "mallar-bhattacharya",
+    "name": "Mallar Bhattacharya",
+    "role": "Associate Professor, UCSF",
+    "group_type": "collaborator",
+    "bio": "Associate Professor at UCSF. Collaborator on lung single-cell sequencing studies.",
+    "website_url": "https://profiles.ucsf.edu/mallar.bhattacharya",
+    "display_order": 200
+  },
+  {
+    "slug": "abraham-tsur",
+    "name": "Abraham (Avi) Tsur",
+    "role": "Sheba Medical Center",
+    "group_type": "collaborator",
+    "bio": "Collaborator at Sheba Medical Center on machine learning for obstetric predictions.",
+    "display_order": 201
+  },
+  {
+    "slug": "shahar-shelly",
+    "name": "Shahar Shelly",
+    "role": "Rambam Medical Center",
+    "group_type": "collaborator",
+    "bio": "Collaborator on AI-driven clinical decision support tools for neurology.",
+    "display_order": 202
+  }
+]

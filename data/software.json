@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "xcell",
+    "name": "xCell",
+    "description": "Cell type enrichment analysis from gene expression data for 64 immune and stromal cell types.",
+    "long_description": "xCell is a gene signatures-based method for inferring 64 immune and stromal cell types from gene expression data. It applies a novel technique for reducing associations between closely related cell types, producing a more accurate portrayal of the tissue cellular heterogeneity landscape. Used by over 20,000 researchers worldwide.",
+    "url": "https://xcell.ucsf.edu",
+    "github_url": "https://github.com/dviraran/xCell",
+    "paper_doi": "10.1186/s13059-017-1349-1",
+    "users_count": "20,000+",
+    "journal": "Genome Biology (2017)",
+    "display_order": 1
+  },
+  {
+    "slug": "xcell2",
+    "name": "xCell 2.0",
+    "description": "Next-generation robust algorithm for cell type proportion estimation. Predicts response to immune checkpoint blockade.",
+    "long_description": "xCell 2.0 is a major update that provides robust cell type proportion estimation from bulk RNA-seq data. It features improved accuracy, new reference profiles, and the ability to predict response to immune checkpoint blockade treatments based on the tumor microenvironment cellular composition.",
+    "github_url": "https://github.com/AlmogAngel/xCell2",
+    "paper_doi": "10.1186/s13059-025-03784-3",
+    "journal": "Genome Biology (2025)",
+    "display_order": 2
+  },
+  {
+    "slug": "singler",
+    "name": "SingleR",
+    "description": "Reference-based single-cell RNA-seq cell type annotation using pure transcriptomic data.",
+    "long_description": "SingleR is an automatic annotation method for single-cell RNA-seq data. It leverages reference transcriptomic datasets of pure cell types to independently infer the cell type identity of each cell in a given single-cell dataset. Installed over 10,000 times from Bioconductor since September 2019.",
+    "url": "https://bioconductor.org/packages/SingleR",
+    "github_url": "https://github.com/LTLA/SingleR",
+    "paper_doi": "10.1038/s41590-018-0276-y",
+    "users_count": "10,000+",
+    "journal": "Nature Immunology (2019)",
+    "display_order": 3
+  },
+  {
+    "slug": "cellmentor",
+    "name": "CellMentor",
+    "description": "Cell-type aware dimensionality reduction for single-cell RNA-sequencing data.",
+    "long_description": "CellMentor provides cell-type aware dimensionality reduction that preserves biological structure in single-cell data, enabling better visualization and downstream analysis.",
+    "paper_doi": "10.1038/s41467-025",
+    "journal": "Nature Communications (2025)",
+    "display_order": 4
+  },
+  {
+    "slug": "slayer",
+    "name": "SLAYER",
+    "description": "Computational framework for identifying synthetic lethal interactions through integrated analysis of cancer dependencies.",
+    "long_description": "SLAYER is a computational framework that identifies synthetic lethal interactions by integrating multiple cancer dependency datasets, providing insights for targeted cancer therapy development.",
+    "paper_doi": "10.1093/nargab/lqaf052",
+    "journal": "NAR Genomics and Bioinformatics (2025)",
+    "display_order": 5
+  }
+]

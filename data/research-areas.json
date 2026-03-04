@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "cancer-immunology",
+    "title": "Cancer Immunology",
+    "description": "We study the composition of the tumor microenvironment and its effect on response to immunotherapy. Using computational approaches, we characterize immune cell populations within tumors to understand how biological therapies reshape the cellular landscape and identify predictive biomarkers for treatment response.",
+    "icon": "shield",
+    "display_order": 1
+  },
+  {
+    "slug": "single-cell-rna-seq",
+    "title": "Single-Cell Transcriptomics",
+    "description": "We develop computational methods for single-cell RNA-seq analysis, including cell type annotation (SingleR), cell type enrichment estimation (xCell 2.0), and dimensionality reduction (CellMentor). Our tools are used by thousands of researchers worldwide to extract biological insights from high-dimensional single-cell data.",
+    "icon": "cell",
+    "display_order": 2
+  },
+  {
+    "slug": "clinical-informatics",
+    "title": "Clinical Informatics & AI",
+    "description": "We develop machine learning models using real-world evidence from electronic health records to improve clinical decision-making. Our work spans oncology treatment comparisons, AI-powered diagnostic tools for neurology, and predictive models for disease progression using transformer architectures.",
+    "icon": "hospital",
+    "display_order": 3
+  },
+  {
+    "slug": "cancer-metastasis",
+    "title": "Cancer Metastasis",
+    "description": "We investigate how disseminated cancer cells interact with and evade the immune system during metastatic colonization. Using single-cell transcriptomics, we map the metastatic microenvironment to understand the cellular dynamics that enable or resist metastatic growth, with a focus on brain metastases.",
+    "icon": "network",
+    "display_order": 4
+  }
+]

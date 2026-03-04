@@ -197,6 +197,7 @@
     "role": "MSc (2023)",
     "group_type": "alumni",
     "bio": "MSc in Applied Mathematics. Thesis: Supervised-NMF-based approach for scRNA-seq analysis.",
+    "current_position": "Data Scientist at XOLTAR",
     "display_order": 104
   },
   {
@@ -222,6 +223,7 @@
     "role": "MSc (2022)",
     "group_type": "alumni",
     "bio": "MSc in Data Science. Thesis: Modeling Time-Series Clinical Data with a Transformer-based Approach for Time-To-Event Prediction.",
+    "current_position": "IDF",
     "display_order": 107
   },
   {
@@ -255,6 +257,7 @@
     "role": "Research Student",
     "group_type": "alumni",
     "bio": "Undergraduate research student. Contributed to SLAYER framework for synthetic lethal interactions.",
+    "current_position": "IDF",
     "display_order": 111
   }
 ]

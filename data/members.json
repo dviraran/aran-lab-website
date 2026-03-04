@@ -16,16 +16,16 @@
   {
     "slug": "michal-brunwasser-meirom",
     "name": "Michal Brunwasser-Meirom",
-    "role": "Lab Manager",
+    "role": "Scientist and Lab Manager",
     "group_type": "current",
-    "bio": "Lab Manager. Manages day-to-day lab operations and supports all research activities.",
+    "bio": "Scientist and Lab Manager. Manages day-to-day lab operations and supports all research activities.",
     "photo_url": "/images/members/michal-brunwasser-meirom.jpg",
     "research_focus": "Lab management and research support",
     "display_order": 2
   },
   {
     "slug": "joseph-bingham",
-    "name": "Joseph (Joey) Bingham",
+    "name": "Dr. Joseph (Joey) Bingham",
     "role": "Postdoctoral Fellow",
     "group_type": "current",
     "bio": "Postdoctoral Fellow with a PhD in Electrical Engineering from Rutgers University (2023). Research focuses on machine learning approaches for personalized medicine and cellular data analysis.",
@@ -37,7 +37,7 @@
   },
   {
     "slug": "shilian-xu",
-    "name": "Shilian Xu",
+    "name": "Dr. Shilian Xu",
     "role": "Postdoctoral Fellow",
     "group_type": "current",
     "bio": "Postdoctoral Fellow.",
@@ -228,7 +228,7 @@
   },
   {
     "slug": "hilla-de-leon",
-    "name": "Hilla De-Leon",
+    "name": "Dr. Hilla De-Leon",
     "role": "Postdoctoral Fellow (2021–2022)",
     "group_type": "alumni",
     "bio": "Postdoctoral Fellow. Worked on COVID-19 modeling and vaccine effectiveness estimation.",

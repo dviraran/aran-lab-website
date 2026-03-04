@@ -31,6 +31,24 @@
     ]
   },
   {
+    "title": "SOMtime the World Ain't Fair: Violating Fairness Using Self-Organizing Maps",
+    "authors": [
+      "J Bingham",
+      "N Arussy",
+      "D Aran"
+    ],
+    "journal": "arXiv",
+    "year": 2026,
+    "doi": "10.48550/arxiv.2602.18201",
+    "pub_type": "preprint",
+    "featured": false,
+    "tags": [
+      "fairness",
+      "machine learning",
+      "self-organizing maps"
+    ]
+  },
+  {
     "title": "A Multi-Agent Approach to Neurological Clinical Reasoning",
     "authors": [
       "M Sorka",

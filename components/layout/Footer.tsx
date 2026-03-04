@@ -27,16 +27,6 @@ export default function Footer() {
               <br />
               Haifa, Israel
             </p>
-            {/* Institutional logo */}
-            <div className="flex items-center gap-4 mt-4">
-              <Image
-                src="/images/logos/cs-faculty.png"
-                alt="Taub Faculty of Computer Science"
-                width={120}
-                height={30}
-                className="h-6 w-auto brightness-0 invert opacity-60"
-              />
-            </div>
           </div>
 
           {/* Quick links */}

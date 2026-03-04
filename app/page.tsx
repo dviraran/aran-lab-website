@@ -93,29 +93,35 @@ export default function Home() {
                   Meet the Team
                 </Link>
               </div>
-              <div className="mt-10 flex items-center gap-6">
+              <div className="mt-8 text-sm text-white/50 leading-relaxed">
+                Faculty of Biology &middot; Taub Faculty of Computer Science<br />
+                Technion &ndash; Israel Institute of Technology
+              </div>
+            </div>
+            <div className="shrink-0 hidden md:flex flex-col items-center gap-5">
+              <div className="flex items-center gap-4">
                 <Image
-                  src="/images/logos/aran-lab-logo.png"
-                  alt="Aran Lab logo"
-                  width={60}
-                  height={60}
-                  className="rounded-lg bg-white/10 p-1"
+                  src="/images/logos/logo-biology.png"
+                  alt="Faculty of Biology, Technion"
+                  width={200}
+                  height={36}
+                  className="rounded bg-white p-1.5 h-[36px] w-auto object-contain"
                 />
                 <Image
                   src="/images/logos/cs-faculty.jpg"
                   alt="Taub Faculty of Computer Science"
-                  width={120}
-                  height={40}
-                  className="rounded bg-white p-1.5 h-[44px] w-auto object-contain"
+                  width={200}
+                  height={36}
+                  className="rounded bg-white p-1.5 h-[36px] w-auto object-contain"
+                />
+                <Image
+                  src="/images/logos/aran-lab-logo.png"
+                  alt="Aran Lab logo"
+                  width={44}
+                  height={44}
+                  className="rounded-lg bg-white/10 p-1"
                 />
               </div>
-              <div className="mt-4 text-sm text-white/50 leading-relaxed">
-                Faculty of Biology<br />
-                Taub Faculty of Computer Science<br />
-                Technion &ndash; Israel Institute of Technology
-              </div>
-            </div>
-            <div className="shrink-0 hidden md:block">
               <Image
                 src="/images/lab-group.jpg"
                 alt="Aran Lab group photo"

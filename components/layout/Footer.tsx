@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Footer() {
@@ -7,18 +8,35 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Lab info */}
           <div>
-            <h3 className="text-lg font-serif font-bold text-white mb-3">
-              Aran Lab
-            </h3>
+            <div className="flex items-center gap-3 mb-3">
+              <Image
+                src="/images/logos/aran-lab-logo.png"
+                alt="Aran Lab"
+                width={40}
+                height={40}
+                className="w-10 h-10 brightness-0 invert"
+              />
+              <h3 className="text-lg font-serif font-bold text-white">
+                Biomedical Data Science Lab
+              </h3>
+            </div>
             <p className="text-sm leading-relaxed">
-              Faculty of Biology &amp; Taub Faculty of Computer Science
+              Faculty of Biology
               <br />
               Technion &ndash; Israel Institute of Technology
               <br />
-              LS&amp;E Building, Floor 8
-              <br />
               Haifa, Israel
             </p>
+            {/* Institutional logo */}
+            <div className="flex items-center gap-4 mt-4">
+              <Image
+                src="/images/logos/cs-faculty.png"
+                alt="Taub Faculty of Computer Science"
+                width={120}
+                height={30}
+                className="h-6 w-auto brightness-0 invert opacity-60"
+              />
+            </div>
           </div>
 
           {/* Quick links */}
@@ -64,10 +82,10 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="mailto:dviraran@technion.ac.il"
+                  href="mailto:aran.lab.technion@gmail.com"
                   className="hover:text-white transition-colors"
                 >
-                  dviraran@technion.ac.il
+                  aran.lab.technion@gmail.com
                 </a>
               </li>
               <li>
@@ -105,7 +123,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t border-white/10 text-sm text-white/50 text-center">
-          &copy; {new Date().getFullYear()} Aran Lab, Technion. All rights
+          &copy; {new Date().getFullYear()} Biomedical Data Science Lab, Technion. All rights
           reserved.
         </div>
       </div>

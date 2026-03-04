@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Join Us",
-  description: "Join the Aran Lab at the Technion.",
+  description: "Join the Biomedical Data Science Lab at the Technion.",
 };
 
 export default function JoinPage() {
@@ -98,10 +98,10 @@ export default function JoinPage() {
               If you&apos;re interested in joining the lab, please send an email
               to{" "}
               <a
-                href="mailto:dviraran@technion.ac.il"
+                href="mailto:aran.lab.technion@gmail.com"
                 className="text-lab-blue hover:underline font-medium"
               >
-                dviraran@technion.ac.il
+                aran.lab.technion@gmail.com
               </a>{" "}
               with the following:
             </p>

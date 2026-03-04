@@ -20,6 +20,16 @@
     "tags": ["scRNA-seq", "dimensionality reduction"]
   },
   {
+    "title": "Machine-learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations",
+    "authors": ["A Hatav", "Y Vysotski", "A Shapira", "S Procaccia", "D Meiri", "D Aran"],
+    "journal": "Communications Medicine",
+    "year": 2025,
+    "doi": "10.1038/s43856-025-00996-3",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": ["machine learning", "cannabis", "pain", "clinical"]
+  },
+  {
     "title": "xCell 2.0: Robust Algorithm for Cell Type Proportion Estimation Predicts Response to Immune Checkpoint Blockade",
     "authors": ["A Angel", "L Naom", "S Nabet-Levy", "D Aran"],
     "journal": "Genome Biology",

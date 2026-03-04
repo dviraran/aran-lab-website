@@ -18,11 +18,11 @@ const lora = Lora({
 
 export const metadata: Metadata = {
   title: {
-    default: "Aran Lab | Technion",
+    default: "Biomedical Data Science Lab | Technion",
     template: "%s | Aran Lab",
   },
   description:
-    "Computational biology and precision medicine research lab at the Technion - Israel Institute of Technology. Led by Dr. Dvir Aran.",
+    "Computational biology and precision medicine research lab at the Technion - Israel Institute of Technology. Led by Prof. Dvir Aran.",
   keywords: [
     "computational biology",
     "bioinformatics",
@@ -35,9 +35,9 @@ export const metadata: Metadata = {
     "SingleR",
   ],
   openGraph: {
-    title: "Aran Lab | Technion",
+    title: "Biomedical Data Science Lab | Technion",
     description:
-      "Computational biology and precision medicine research lab at the Technion.",
+      "Computational biology and precision medicine research lab at the Technion. Led by Prof. Dvir Aran.",
     url: "https://aran-lab.com",
     siteName: "Aran Lab",
     locale: "en_US",

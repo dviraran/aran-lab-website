@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 
@@ -10,6 +11,7 @@ const navLinks = [
   { href: "/research", label: "Research" },
   { href: "/software", label: "Software" },
   { href: "/news", label: "News" },
+  { href: "/gallery", label: "Gallery" },
   { href: "/join", label: "Join Us" },
 ];
 
@@ -21,6 +23,13 @@ export default function Navbar() {
       <nav className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2">
+            <Image
+              src="/images/logos/aran-lab-logo.png"
+              alt="Aran Lab"
+              width={36}
+              height={36}
+              className="w-9 h-9"
+            />
             <span className="text-xl font-serif font-bold text-lab-blue">
               Aran Lab
             </span>

@@ -4,7 +4,7 @@ import { getMembers, getMembersByGroup, type Member } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Team",
-  description: "Meet the Aran Lab team at the Technion.",
+  description: "Meet the Biomedical Data Science Lab team at the Technion.",
 };
 
 function SocialLinks({ member }: { member: Member }) {
@@ -71,8 +71,6 @@ export default function TeamPage() {
   const pi = getMembersByGroup("pi");
   const current = getMembersByGroup("current");
   const alumni = getMembersByGroup("alumni");
-  const collaborators = getMembersByGroup("collaborator");
-
   const labManager = current.filter((m) =>
     m.role.toLowerCase().includes("manager")
   );
@@ -191,25 +189,6 @@ export default function TeamPage() {
           </div>
         </div>
 
-        {/* Collaborators */}
-        {collaborators.length > 0 && (
-          <div>
-            <h2 className="text-xl font-serif font-bold text-lab-text mb-6">
-              Collaborators
-            </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-              {collaborators.map((collab) => (
-                <div
-                  key={collab.slug}
-                  className="p-4 rounded-lg border border-lab-border bg-white"
-                >
-                  <h3 className="font-medium text-lab-text">{collab.name}</h3>
-                  <p className="text-sm text-lab-muted">{collab.role}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
       </div>
     </div>
   );

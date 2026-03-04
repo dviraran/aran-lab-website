@@ -3,7 +3,7 @@ import { getSoftware } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Software",
-  description: "Software tools developed by the Aran Lab.",
+  description: "Software tools developed by the Biomedical Data Science Lab.",
 };
 
 export default function SoftwarePage() {

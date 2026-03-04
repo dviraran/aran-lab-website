@@ -1,0 +1,163 @@
+[
+  {
+    "src": "/images/gallery/IMG_4704 (1).jpg",
+    "alt": "Lab group photo at the Faculty Retreat",
+    "category": "event",
+    "date": "2026-01-15",
+    "caption": "Lab group at the Faculty Retreat, Hacienda Forest View hotel"
+  },
+  {
+    "src": "/images/gallery/IMG_4705 (1).jpg",
+    "alt": "Lab group photo at the Faculty Retreat",
+    "category": "event",
+    "date": "2026-01-15",
+    "caption": "Lab group at the Faculty Retreat, Hacienda Forest View hotel"
+  },
+  {
+    "src": "/images/gallery/IMG_4700.jpg",
+    "alt": "Lab dinner at the Faculty Retreat",
+    "category": "event",
+    "date": "2026-01-15",
+    "caption": "Lab dinner at the Faculty Retreat, Hacienda Forest View hotel"
+  },
+  {
+    "src": "/images/gallery/IMG_2643.jpg",
+    "alt": "Dvir Aran presenting a tribute to Prof. Atul Butte",
+    "category": "presentation",
+    "date": "2026-02-01",
+    "caption": "Dvir Aran presenting in memory of Prof. Atul Butte at ILANIT/FISEB 2026"
+  },
+  {
+    "src": "/images/gallery/IMG_1685.jpg",
+    "alt": "Ornit Bhonkar presenting on UBB+1 in Alzheimer's disease",
+    "category": "presentation",
+    "date": "2026-02-01",
+    "caption": "Ornit Bhonkar presenting at ILANIT/FISEB 2026"
+  },
+  {
+    "src": "/images/gallery/1000217518.jpg",
+    "alt": "Ornit Bhonkar at her poster on UBB+1 in Alzheimer's disease",
+    "category": "presentation",
+    "date": "2026-02-01",
+    "caption": "Ornit Bhonkar at her poster on transcriptomic signatures of UBB+1"
+  },
+  {
+    "src": "/images/gallery/IMG_1637.jpg",
+    "alt": "Zhongyang Lin presenting on tumor immune microenvironment",
+    "category": "presentation",
+    "date": "2025-12-01",
+    "caption": "Zhongyang Lin presenting at the Biology Retreat 2025"
+  },
+  {
+    "src": "/images/gallery/IMG_1610.jpg",
+    "alt": "Almog Angel presenting at the Best Paper Award seminar",
+    "category": "presentation",
+    "date": "2025-12-01",
+    "caption": "Almog Angel presenting at the Faculty Best Paper Award seminar"
+  },
+  {
+    "src": "/images/gallery/IMG_8639.jpg",
+    "alt": "Lab members working in the wet lab",
+    "category": "lab",
+    "date": "2024-11-14",
+    "caption": "Wet lab work at the Aran Lab"
+  },
+  {
+    "src": "/images/gallery/IMG_5900.jpg",
+    "alt": "Oren Ploznik at his MSc seminar",
+    "category": "presentation",
+    "date": "2023-09-19",
+    "caption": "Oren Ploznik at his MSc seminar"
+  },
+  {
+    "src": "/images/gallery/IMG_3674.jpg",
+    "alt": "Lab group photo",
+    "category": "lab",
+    "date": "2023-04-02",
+    "caption": "Group photo in the lab"
+  },
+  {
+    "src": "/images/gallery/IMG_3596.jpg",
+    "alt": "Almog Angel presenting on scRNA-seq analysis",
+    "category": "presentation",
+    "date": "2023-03-14",
+    "caption": "Almog Angel presenting on scRNA-seq analysis"
+  },
+  {
+    "src": "/images/gallery/IMG_3411.jpg",
+    "alt": "Oren Ploznik presenting on GHOST spatial transcriptomics at FISEB 2023",
+    "category": "presentation",
+    "date": "2023-02-22",
+    "caption": "Oren Ploznik presenting GHOST at FISEB 2023"
+  },
+  {
+    "src": "/images/gallery/IMG_3350.jpg",
+    "alt": "Lab member pipetting in the wet lab",
+    "category": "lab",
+    "date": "2023-02-16",
+    "caption": "Working at the bench"
+  },
+  {
+    "src": "/images/gallery/IMG_3328.jpg",
+    "alt": "Mahmoud Yazbak at his MSc seminar",
+    "category": "presentation",
+    "date": "2023-02-08",
+    "caption": "Mahmoud Yazbak presenting at his MSc seminar"
+  },
+  {
+    "src": "/images/gallery/IMG_2933.jpg",
+    "alt": "Or Hevdeli presenting on scRNA-seq clustering challenges",
+    "category": "presentation",
+    "date": "2022-12-07",
+    "caption": "Or Hevdeli presenting on scRNA-seq annotation challenges"
+  },
+  {
+    "src": "/images/gallery/IMG_2790.jpg",
+    "alt": "Lab meeting panorama",
+    "category": "lab",
+    "date": "2022-11-03",
+    "caption": "Lab meeting"
+  },
+  {
+    "src": "/images/gallery/IMG_2789.jpg",
+    "alt": "Lab meeting with team around the island",
+    "category": "lab",
+    "date": "2022-11-03",
+    "caption": "Lab meeting"
+  },
+  {
+    "src": "/images/gallery/IMG_2788.jpg",
+    "alt": "Napping under the desk",
+    "category": "lab",
+    "date": "2022-11-03",
+    "caption": "The real lab life"
+  },
+  {
+    "src": "/images/gallery/IMG_2562.jpg",
+    "alt": "Lab members in the office",
+    "category": "lab",
+    "date": "2022-09-19",
+    "caption": "Fun in the office"
+  },
+  {
+    "src": "/images/gallery/IMG_2535.jpg",
+    "alt": "Or Hevdeli presenting poster on scRNA-seq NMF approach",
+    "category": "presentation",
+    "date": "2022-09-14",
+    "caption": "Or Hevdeli at her poster session"
+  },
+  {
+    "src": "/images/gallery/IMG_1520.jpg",
+    "alt": "Lab construction - building the bench",
+    "category": "lab",
+    "date": "2022-06-26",
+    "caption": "Building the new lab"
+  },
+  {
+    "src": "/images/gallery/IMG_1091.jpg",
+    "alt": "Lab construction - empty room before setup",
+    "category": "lab",
+    "date": "2022-04-24",
+    "caption": "Where it all started - the lab before construction"
+  }
+]

@@ -1,38 +1,52 @@
 [
   {
+    "title": "In memory of Prof. Atul Butte (1969–2025)",
+    "date": "2025-06-15",
+    "category": "other",
+    "url": "https://www.ucsf.edu/news/2025/06/430236/bioinformatics-pioneer-atul-butte-dies-at-55",
+    "content": "We are deeply saddened by the passing of Prof. Atul Butte, a pioneering leader in biomedical informatics and Dvir's postdoctoral mentor at UCSF and Stanford. Atul's vision for translating big data into better health inspired our lab's mission. His legacy lives on in the countless researchers and clinicians he mentored and the field he helped shape."
+  },
+  {
+    "title": "CellMentor featured in Israel Hayom",
+    "date": "2026-01-20",
+    "category": "media",
+    "url": "https://www.israelhayom.co.il/tech/research/article/19720398",
+    "content": "Israel Hayom featured CellMentor under the headline 'Our AI tool discovered in cancer what other methods missed', highlighting how the tool uncovered mechanisms in neuroblastoma that standard methods had overlooked."
+  },
+  {
     "title": "New paper in Lancet Oncology on deep learning for breast cancer recurrence prediction",
-    "date": "2026-02-01",
+    "date": "2026-01-15",
     "category": "publication",
     "url": null,
     "content": "Our collaborative paper with Kimmel et al. on deep learning applied to histopathological images to predict breast cancer recurrence risk and chemotherapy benefit has been accepted to Lancet Oncology."
   },
   {
-    "title": "xCell 2.0 published in Genome Biology",
-    "date": "2025-06-01",
-    "category": "publication",
-    "url": "https://doi.org/10.1186/s13059-025-03784-3",
-    "content": "Almog Angel's xCell 2.0 paper is out in Genome Biology! The new algorithm provides robust cell type proportion estimation and predicts response to immune checkpoint blockade."
+    "title": "New ISF Grant: Deciphering Brain Metastasis Microenvironments (1.35M NIS)",
+    "date": "2025-08-01",
+    "category": "grant",
+    "url": null,
+    "content": "Dvir received a new Israel Science Foundation grant (2025-2030) for the project 'Deciphering Brain Metastasis Microenvironments Through Single-Cell RNA Sequencing to Enhance Immunotherapy', 1.35M NIS."
+  },
+  {
+    "title": "Almog Angel wins Faculty Best Paper Award for xCell 2.0",
+    "date": "2025-12-01",
+    "category": "prize",
+    "url": null,
+    "content": "Almog Angel received the Faculty Best Paper Award and presented xCell 2.0 at the faculty seminar."
   },
   {
     "title": "CellMentor published in Nature Communications",
-    "date": "2025-06-01",
+    "date": "2025-12-11",
     "category": "publication",
-    "url": null,
+    "url": "https://doi.org/10.1038/s41467-025-67088-7",
     "content": "Or Hevdeli and Kate Petrenko's CellMentor paper on cell-type aware dimensionality reduction is published in Nature Communications."
   },
   {
     "title": "SLAYER published in NAR Genomics and Bioinformatics",
-    "date": "2025-06-01",
+    "date": "2025-06-16",
     "category": "publication",
     "url": "https://doi.org/10.1093/nargab/lqaf052",
     "content": "Ziv Cohen and Kate Petrenko's SLAYER framework for identifying synthetic lethal interactions is published in NAR Genomics and Bioinformatics."
-  },
-  {
-    "title": "Fine-Pruning published in Patterns",
-    "date": "2025-05-01",
-    "category": "publication",
-    "url": null,
-    "content": "Joey Bingham's Fine-Pruning algorithm for personalized machine learning is published in Patterns."
   },
   {
     "title": "Dvir invited to EACR 2025 and Broad-Israel Consortium",
@@ -42,11 +56,25 @@
     "content": "Dvir was invited to speak at the EACR Annual Congress in Lisbon and the Broad-Israel Biomedical Consortium in Cambridge."
   },
   {
-    "title": "New ISF Grant: Deciphering Brain Metastasis Microenvironments (1.35M NIS)",
-    "date": "2025-01-01",
-    "category": "grant",
+    "title": "Fine-Pruning published in Patterns",
+    "date": "2025-05-09",
+    "category": "publication",
     "url": null,
-    "content": "Dvir received a new Israel Science Foundation grant (2025-2030) for the project 'Deciphering Brain Metastasis Microenvironments Through Single-Cell RNA Sequencing to Enhance Immunotherapy', 1.35M NIS."
+    "content": "Joey Bingham's Fine-Pruning algorithm for personalized machine learning is published in Patterns."
+  },
+  {
+    "title": "Cannabis and pain relief paper published in Communications Medicine",
+    "date": "2025-07-16",
+    "category": "publication",
+    "url": "https://www.nature.com/articles/s43856-025-00996-3",
+    "content": "Our collaborative paper with Meiri lab showing that machine learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations is published in Communications Medicine. The study of 329 chronic pain patients identified specific terpenoids as key predictors of pain relief."
+  },
+  {
+    "title": "xCell 2.0 published in Genome Biology",
+    "date": "2025-10-03",
+    "category": "publication",
+    "url": "https://doi.org/10.1186/s13059-025-03784-3",
+    "content": "Almog Angel's xCell 2.0 paper is out in Genome Biology! The new algorithm provides robust cell type proportion estimation and predicts response to immune checkpoint blockade."
   },
   {
     "title": "Dvir appointed Individual Expert at European Innovation Council",
@@ -77,8 +105,15 @@
     "content": "Preprint evaluating GPT-4 as a clinical decision support tool in ischemic stroke management with Shahar Shelly posted on medRxiv."
   },
   {
+    "title": "Technion-Pfizer collaboration on AI for health launched",
+    "date": "2023-01-13",
+    "category": "general",
+    "url": "https://www.hayadan.org.il/%D7%94%D7%98%D7%9B%D7%A0%D7%99%D7%95%D7%9F-%D7%95%D7%A4%D7%99%D7%99%D7%96%D7%A8-%D7%97%D7%AA%D7%9E%D7%95-%D7%A2%D7%9C-%D7%94%D7%A1%D7%9B%D7%9D-%D7%A9%D7%99%D7%AA%D7%95%D7%A3-%D7%A4%D7%A2%D7%95%D7%9C",
+    "content": "Dvir met with Pfizer CEO Dr. Albert Bourla as part of the Technion-Pfizer collaboration to accelerate scientific breakthroughs using AI, contributing to the launch of Tech.AI, the Technion's biomedical AI center."
+  },
+  {
     "title": "Exhausted γδ T cells in kidney cancer published in Nature Immunology",
-    "date": "2023-03-01",
+    "date": "2023-03-06",
     "category": "publication",
     "url": "https://doi.org/10.1038/s41590-023-01448-7",
     "content": "Collaborative paper with the Fong lab on exhausted intratumoral γδ T cells in kidney cancer published in Nature Immunology."
@@ -92,14 +127,14 @@
   },
   {
     "title": "FOLFIRINOX vs Gemcitabine comparison published in JAMA Network Open",
-    "date": "2022-06-01",
+    "date": "2022-06-17",
     "category": "publication",
     "url": "https://doi.org/10.1001/jamanetworkopen.2022.16199",
     "content": "Our real-world comparison of chemotherapy regimens for metastatic pancreatic cancer published in JAMA Network Open."
   },
   {
     "title": "ISF Research Grant awarded",
-    "date": "2021-07-27",
+    "date": "2021-08-01",
     "category": "grant",
     "url": null,
     "content": "Dvir awarded an Israel Science Foundation grant for evaluating the effects of biological therapies on the metastatic microenvironment using single-cell transcriptomics (1.08M + 800K NIS equipment)."

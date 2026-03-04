@@ -1,30 +1,29 @@
 [
   {
-    "slug": "cancer-immunology",
-    "title": "Cancer Immunology",
-    "description": "We study the composition of the tumor microenvironment and its effect on response to immunotherapy. Using computational approaches, we characterize immune cell populations within tumors to understand how biological therapies reshape the cellular landscape and identify predictive biomarkers for treatment response.",
-    "icon": "shield",
+    "slug": "computational-methods",
+    "title": "Computational Methods for Cellular Heterogeneity",
+    "description": "We develop computational tools that characterize cellular heterogeneity across data modalities and scales. From deconvolving bulk tissue data (xCell, xCell 2.0) to annotating single-cell transcriptomes (SingleR, CellMentor) and exploring spatial tissue organization (Gaudi), our methods are used by tens of thousands of researchers worldwide to extract biological insights from complex genomic data.",
+    "long_description": "Cellular heterogeneity in tissues represents one of the fundamental challenges in modern biomedical research. Our lab develops computational methods that bridge different data modalities and scales to characterize this heterogeneity. In bulk RNA-seq, we built upon xCell to develop xCell 2.0, a flexible deconvolution framework that consistently outperforms other methods. For single-cell analysis, we developed a hierarchical deep-phenotyping framework building on SingleR, and CellMentor for cell-type aware dimensionality reduction. Our spatial transcriptomics work with the Gaudi framework identifies cellular communities using graph neural networks. We also developed SLAYER for synthetic lethal interactions and Fine-Pruning for making AI models more accessible in clinical settings.",
+    "icon": "cell",
+    "image_url": "/images/research/computational-methods.png",
     "display_order": 1
   },
   {
-    "slug": "single-cell-rna-seq",
-    "title": "Single-Cell Transcriptomics",
-    "description": "We develop computational methods for single-cell RNA-seq analysis, including cell type annotation (SingleR), cell type enrichment estimation (xCell 2.0), and dimensionality reduction (CellMentor). Our tools are used by thousands of researchers worldwide to extract biological insights from high-dimensional single-cell data.",
-    "icon": "cell",
+    "slug": "cellular-dynamics",
+    "title": "Cellular Dynamics in Health & Disease",
+    "description": "We apply single-cell RNA sequencing and spatial transcriptomics to understand how cells behave and interact in disease contexts. Using our in-house biology lab equipped with a 10x Genomics Chromium system, we profile fresh surgical samples to map tumor microenvironment changes during immunotherapy, investigate metastatic dissemination, and characterize neuroimmunological responses.",
+    "long_description": "Beyond method development, we apply computational approaches to understand how cells behave and interact in various biological contexts. We established protocols for collecting and analyzing fresh surgical samples from Rambam Medical Center, processing over 50 samples through scRNA-seq and spatial transcriptomics. A key focus is our comprehensive analysis of tumor microenvironment changes during immunotherapy across 326 samples from 163 patients. We also investigate brain metastases after immunotherapy, pre-metastatic niches in head and neck cancer, age-dependent neuroblastoma prognosis, and neuroimmunological responses in myasthenia gravis.",
+    "icon": "shield",
+    "image_url": "/images/research/cellular-dynamics.png",
     "display_order": 2
   },
   {
-    "slug": "clinical-informatics",
-    "title": "Clinical Informatics & AI",
-    "description": "We develop machine learning models using real-world evidence from electronic health records to improve clinical decision-making. Our work spans oncology treatment comparisons, AI-powered diagnostic tools for neurology, and predictive models for disease progression using transformer architectures.",
+    "slug": "clinical-ai",
+    "title": "Clinical Decision-Making through AI",
+    "description": "We develop machine learning frameworks that translate computational insights into clinical applications — from transformer-based models for electronic health records and LLM-powered neurological assessment tools to real-world evidence studies that have informed treatment guidelines in oncology, immunotherapy, and public health.",
+    "long_description": "The third pillar of our research translates computational insights into clinical applications. Our deep learning approaches for electronic health records include RatchetEHR for ICU data analysis and STRAFE for survival prediction. We evaluate large language models for clinical decision support, including GPT-4 for ischemic stroke management and multi-agent frameworks for neurological reasoning. Our real-world evidence studies have yielded practice-changing insights in metastatic pancreatic cancer (JAMA Network Open) and melanoma immunotherapy (BJC Reports). We also develop predictive models for nursing workforce optimization, nutritional risk assessment, and cancer screening.",
     "icon": "hospital",
+    "image_url": "/images/research/clinical-ai.png",
     "display_order": 3
-  },
-  {
-    "slug": "cancer-metastasis",
-    "title": "Cancer Metastasis",
-    "description": "We investigate how disseminated cancer cells interact with and evade the immune system during metastatic colonization. Using single-cell transcriptomics, we map the metastatic microenvironment to understand the cellular dynamics that enable or resist metastatic growth, with a focus on brain metastases.",
-    "icon": "network",
-    "display_order": 4
   }
 ]

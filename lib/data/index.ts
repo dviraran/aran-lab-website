@@ -3,6 +3,7 @@ import publicationsData from "@/data/publications.json";
 import newsData from "@/data/news.json";
 import researchData from "@/data/research-areas.json";
 import softwareData from "@/data/software.json";
+import galleryData from "@/data/gallery.json";
 
 export type Member = {
   slug: string;
@@ -46,7 +47,9 @@ export type ResearchArea = {
   slug: string;
   title: string;
   description: string;
+  long_description?: string;
   icon: string;
+  image_url?: string;
   display_order: number;
 };
 
@@ -100,5 +103,19 @@ export function getResearchAreas(): ResearchArea[] {
 export function getSoftware(): Software[] {
   return (softwareData as Software[]).sort(
     (a, b) => a.display_order - b.display_order
+  );
+}
+
+export type GalleryPhoto = {
+  src: string;
+  alt: string;
+  category: "retreat" | "presentation" | "lab" | "event";
+  date: string;
+  caption?: string;
+};
+
+export function getGalleryPhotos(): GalleryPhoto[] {
+  return (galleryData as GalleryPhoto[]).sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
   );
 }

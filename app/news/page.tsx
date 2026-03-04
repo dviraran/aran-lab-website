@@ -3,7 +3,7 @@ import { getNews } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "News",
-  description: "Latest news from the Aran Lab.",
+  description: "Latest news from the Biomedical Data Science Lab.",
 };
 
 function categoryBadge(category: string) {

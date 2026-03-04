@@ -38,7 +38,8 @@
     "name": "CellMentor",
     "description": "Cell-type aware dimensionality reduction for single-cell RNA-sequencing data.",
     "long_description": "CellMentor provides cell-type aware dimensionality reduction that preserves biological structure in single-cell data, enabling better visualization and downstream analysis.",
-    "paper_doi": "10.1038/s41467-025",
+    "github_url": "https://github.com/petrenkokate/CellMentor",
+    "paper_doi": "10.1038/s41467-025-67088-7",
     "journal": "Nature Communications (2025)",
     "display_order": 4
   },
@@ -47,6 +48,8 @@
     "name": "SLAYER",
     "description": "Computational framework for identifying synthetic lethal interactions through integrated analysis of cancer dependencies.",
     "long_description": "SLAYER is a computational framework that identifies synthetic lethal interactions by integrating multiple cancer dependency datasets, providing insights for targeted cancer therapy development.",
+    "github_url": "https://github.com/zivc888/SLICE",
+    "url": "https://dviraran.shinyapps.io/SLAYER",
     "paper_doi": "10.1093/nargab/lqaf052",
     "journal": "NAR Genomics and Bioinformatics (2025)",
     "display_order": 5

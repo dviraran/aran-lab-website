@@ -1,11 +1,10 @@
-import Link from "next/link";
 import Image from "next/image";
+import Link from "next/link";
 import {
   getFeaturedPublications,
   getNews,
   getResearchAreas,
   getSoftware,
-  getMembers,
   getPublications,
 } from "@/lib/data";
 
@@ -53,11 +52,7 @@ export default function Home() {
   const featured = getFeaturedPublications().slice(0, 3);
   const news = getNews().slice(0, 5);
   const software = getSoftware();
-  const allMembers = getMembers();
   const allPubs = getPublications();
-  const currentMembers = allMembers.filter(
-    (m) => m.group_type === "current" || m.group_type === "pi"
-  );
 
   return (
     <>
@@ -70,35 +65,48 @@ export default function Home() {
             backgroundSize: "40px 40px"
           }} />
         </div>
-        <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
-          <h1 className="text-4xl md:text-6xl font-serif font-bold mb-6 leading-tight">
-            Aran Lab
-          </h1>
-          <p className="text-lg md:text-xl text-white/80 max-w-2xl mb-4">
-            Computational Biology &amp; Precision Medicine
-          </p>
-          <p className="text-base text-white/60 max-w-2xl mb-8">
-            We develop computational methods for biomedical data analysis &mdash;
-            from single-cell transcriptomics and tumor microenvironment
-            characterization to machine learning for clinical decision-making.
-          </p>
-          <div className="flex flex-wrap gap-4">
-            <Link
-              href="/research"
-              className="inline-flex items-center px-6 py-3 bg-white text-lab-blue font-medium rounded-lg hover:bg-white/90 transition-colors"
-            >
-              Our Research
-            </Link>
-            <Link
-              href="/team"
-              className="inline-flex items-center px-6 py-3 border border-white/30 text-white font-medium rounded-lg hover:bg-white/10 transition-colors"
-            >
-              Meet the Team
-            </Link>
-          </div>
-          <div className="mt-8 text-sm text-white/40">
-            Faculty of Biology &amp; Computer Science &middot; Technion &ndash;
-            Israel Institute of Technology
+        <div className="relative max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
+          <div className="flex flex-col md:flex-row items-center gap-10">
+            <div className="flex-1">
+              <h1 className="text-4xl md:text-5xl font-serif font-bold mb-6 leading-tight">
+                Biomedical Data Science Lab
+              </h1>
+              <p className="text-lg md:text-xl text-white/80 max-w-2xl mb-4">
+                Computational Biology &amp; Precision Medicine
+              </p>
+              <p className="text-base text-white/60 max-w-2xl mb-8">
+                We develop computational methods for biomedical data analysis &mdash;
+                from single-cell transcriptomics and tumor microenvironment
+                characterization to machine learning for clinical decision-making.
+              </p>
+              <div className="flex flex-wrap gap-4">
+                <Link
+                  href="/research"
+                  className="inline-flex items-center px-6 py-3 bg-white text-lab-blue font-medium rounded-lg hover:bg-white/90 transition-colors"
+                >
+                  Our Research
+                </Link>
+                <Link
+                  href="/team"
+                  className="inline-flex items-center px-6 py-3 border border-white/30 text-white font-medium rounded-lg hover:bg-white/10 transition-colors"
+                >
+                  Meet the Team
+                </Link>
+              </div>
+              <div className="mt-8 text-sm text-white/40">
+                Faculty of Biology &middot; Technion &ndash;
+                Israel Institute of Technology
+              </div>
+            </div>
+            <div className="shrink-0 hidden md:block">
+              <Image
+                src="/images/lab-group.jpg"
+                alt="Aran Lab group photo"
+                width={360}
+                height={240}
+                className="rounded-xl shadow-2xl border-2 border-white/20"
+              />
+            </div>
           </div>
         </div>
       </section>
@@ -112,7 +120,7 @@ export default function Home() {
           <p className="text-lab-muted mb-10">
             Our work spans computational biology, immunology, and clinical AI
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {researchAreas.map((area) => (
               <Link
                 key={area.slug}
@@ -286,36 +294,6 @@ export default function Home() {
                 </div>
               </div>
             ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Lab Stats */}
-      <section className="py-12 bg-white border-t border-lab-border">
-        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-            <div>
-              <div className="text-3xl font-bold text-lab-blue">
-                {allPubs.length}+
-              </div>
-              <div className="text-sm text-lab-muted mt-1">Publications</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold text-lab-blue">15,000+</div>
-              <div className="text-sm text-lab-muted mt-1">Citations</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold text-lab-blue">
-                {currentMembers.length}
-              </div>
-              <div className="text-sm text-lab-muted mt-1">Team Members</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold text-lab-blue">
-                {software.length}
-              </div>
-              <div className="text-sm text-lab-muted mt-1">Software Tools</div>
-            </div>
           </div>
         </div>
       </section>

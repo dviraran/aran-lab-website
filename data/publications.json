@@ -73,6 +73,23 @@
     ]
   },
   {
+    "title": "AI vs Human Performance in Conversational Hospital-Based Neurological Diagnosis",
+    "authors": [
+      "M Sorka",
+      "A Gorenshtein",
+      "H Abramovitch",
+      "P Soontrapa",
+      "S Shelly",
+      "D Aran"
+    ],
+    "journal": "medRxiv",
+    "year": 2025,
+    "doi": "10.1101/2025.08.13.25333529",
+    "pub_type": "preprint",
+    "featured": false,
+    "tags": []
+  },
+  {
     "title": "Agent-guided AI-powered Interpretation and Reporting of Nerve Conduction Studies and EMG (INSPIRE)",
     "authors": [
       "A Gorenshtein",
@@ -350,6 +367,28 @@
       "melanoma",
       "real-world data"
     ]
+  },
+  {
+    "title": "Defective interferon signaling in the circulating monocytes of type 2 diabetic mice",
+    "authors": [
+      "S Omodaka",
+      "Y Kato",
+      "Y Sato",
+      "J Falcone-Juengert",
+      "H Zhang",
+      "A Kanoke",
+      "W L Eckalbar",
+      "H Endo",
+      "C L Hsieh",
+      "D Aran",
+      "J Liu"
+    ],
+    "journal": "bioRxiv",
+    "year": 2024,
+    "doi": "10.1101/2024.06.03.597050",
+    "pub_type": "preprint",
+    "featured": false,
+    "tags": []
   },
   {
     "title": "ICU Bloodstream Infection Prediction: A Transformer-Based Approach for EHR Analysis",
@@ -680,6 +719,19 @@
     ]
   },
   {
+    "title": "What pushed Israel out of herd immunity? Modeling COVID-19 spread of Delta and Waning immunity",
+    "authors": [
+      "H De-Leon",
+      "D Aran"
+    ],
+    "journal": "medRxiv",
+    "year": 2021,
+    "doi": "10.1101/2021.09.12.21263451",
+    "pub_type": "preprint",
+    "featured": false,
+    "tags": []
+  },
+  {
     "title": "Cell-Type Enrichment Analysis of Bulk Transcriptomes Using xCell",
     "authors": [
       "D Aran"
@@ -876,6 +928,25 @@
       "transcriptomics"
     ],
     "cited_by_count": 154
+  },
+  {
+    "title": "EpiSort: Enumeration of cell types using targeted bisulfite sequencing",
+    "authors": [
+      "D Aran",
+      "R S Dover",
+      "K E Lundy",
+      "M D Leipold",
+      "J Xuhuai",
+      "S L McDevitt",
+      "M M Davis",
+      "A J Butte"
+    ],
+    "journal": "bioRxiv",
+    "year": 2019,
+    "doi": "10.1101/677211",
+    "pub_type": "preprint",
+    "featured": false,
+    "tags": []
   },
   {
     "title": "Heterogeneity in HIV and Cellular Transcription Profiles in Cell Line Models of Latent and Productive Infection",

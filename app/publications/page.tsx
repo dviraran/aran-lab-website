@@ -54,7 +54,7 @@ export default function PublicationsPage() {
         </h1>
         <p className="text-lab-muted mb-8">
           {allPubs.length} publications &middot; 15,000+ citations &middot;
-          h-index 29
+          h-index 30
         </p>
 
         {/* Filters */}
@@ -117,13 +117,24 @@ export default function PublicationsPage() {
                       </span>
                     )}
                     <div className="flex-1 min-w-0">
-                      <h3 className="font-medium text-sm text-lab-text leading-snug">
-                        {pub.title}
+                      <h3 className="font-medium text-sm leading-snug">
+                        {pub.doi ? (
+                          <a
+                            href={`https://doi.org/${pub.doi}`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-lab-text hover:text-lab-blue transition-colors"
+                          >
+                            {pub.title}
+                          </a>
+                        ) : (
+                          <span className="text-lab-text">{pub.title}</span>
+                        )}
                       </h3>
                       <p className="text-xs text-lab-muted mt-1">
                         {formatAuthors(pub.authors)}
                       </p>
-                      <div className="flex items-center gap-2 mt-2">
+                      <div className="flex items-center gap-2 mt-2 flex-wrap">
                         <span className="text-xs font-medium text-lab-teal">
                           {pub.journal}
                         </span>
@@ -141,6 +152,11 @@ export default function PublicationsPage() {
                           >
                             DOI
                           </a>
+                        )}
+                        {pub.cited_by_count && pub.cited_by_count >= 100 && (
+                          <span className="text-xs px-2 py-0.5 rounded-full bg-amber-50 text-amber-700 font-medium border border-amber-200">
+                            {pub.cited_by_count.toLocaleString()} citations
+                          </span>
                         )}
                       </div>
                     </div>

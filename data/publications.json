@@ -1,562 +1,1307 @@
 [
   {
     "title": "Deep Learning on Histopathological Images to Predict Breast Cancer Recurrence Risk and Chemotherapy Benefit",
-    "authors": ["G Shamai", "S Cohen", "Y Binenbaum", "E Sabo", "A Cretu", "C Mayer", "I Barshack", "T Goldman", "G Bar-Sela", "A Polónia", "FM Howard", "AT Pearson", "D Huo", "JA Sparano", "R Kimmel", "D Aran"],
+    "authors": [
+      "G Shamai",
+      "S Cohen",
+      "Y Binenbaum",
+      "E Sabo",
+      "A Cretu",
+      "C Mayer",
+      "I Barshack",
+      "T Goldman",
+      "G Bar-Sela",
+      "A Pol\u00f3nia",
+      "FM Howard",
+      "AT Pearson",
+      "D Huo",
+      "JA Sparano",
+      "R Kimmel",
+      "D Aran"
+    ],
     "journal": "Lancet Oncology",
     "year": 2026,
-    "doi": null,
+    "doi": "10.1016/j.esmorw.2025.100369",
     "pub_type": "journal",
     "featured": true,
-    "tags": ["deep learning", "cancer", "histopathology"]
-  },
-  {
-    "title": "CellMentor: Cell-Type Aware Dimensionality Reduction for Single-cell RNA-Sequencing Data",
-    "authors": ["O Hevdeli", "E Petrenko", "D Aran"],
-    "journal": "Nature Communications",
-    "year": 2025,
-    "doi": null,
-    "pub_type": "journal",
-    "featured": true,
-    "tags": ["scRNA-seq", "dimensionality reduction"]
-  },
-  {
-    "title": "Machine-learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations",
-    "authors": ["A Hatav", "Y Vysotski", "A Shapira", "S Procaccia", "D Meiri", "D Aran"],
-    "journal": "Communications Medicine",
-    "year": 2025,
-    "doi": "10.1038/s43856-025-00996-3",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["machine learning", "cannabis", "pain", "clinical"]
-  },
-  {
-    "title": "xCell 2.0: Robust Algorithm for Cell Type Proportion Estimation Predicts Response to Immune Checkpoint Blockade",
-    "authors": ["A Angel", "L Naom", "S Nabet-Levy", "D Aran"],
-    "journal": "Genome Biology",
-    "year": 2025,
-    "doi": "10.1186/s13059-025-03784-3",
-    "pub_type": "journal",
-    "featured": true,
-    "tags": ["deconvolution", "immunotherapy", "xCell"]
+    "tags": [
+      "deep learning",
+      "cancer",
+      "histopathology"
+    ]
   },
   {
     "title": "A Multi-Agent Approach to Neurological Clinical Reasoning",
-    "authors": ["M Sorka", "A Gorenshtein", "D Aran", "S Shelly"],
+    "authors": [
+      "M Sorka",
+      "A Gorenshtein",
+      "D Aran",
+      "S Shelly"
+    ],
     "journal": "PLoS Digital Health",
     "year": 2025,
     "doi": "10.1371/journal.pdig.0001106",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["AI", "neurology", "clinical reasoning"]
-  },
-  {
-    "title": "Machine-learning of Medical Cannabis Chemical Profiles Reveals Analgesia Beyond Placebo Expectations",
-    "authors": ["A Hatav", "Y Vysotski", "A Shapira", "S Procaccia", "D Meiri", "D Aran"],
-    "journal": "Communications Medicine",
-    "year": 2025,
-    "doi": null,
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["machine learning", "cannabis", "analgesia"]
-  },
-  {
-    "title": "Over- and Under-estimation of Vaccine Effectiveness",
-    "authors": ["H De-Leon", "D Aran"],
-    "journal": "BMC Medical Research Methodology",
-    "year": 2025,
-    "doi": null,
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["vaccines", "epidemiology", "methodology"]
-  },
-  {
-    "title": "Agent-guided AI-powered Interpretation and Reporting of Nerve Conduction Studies and EMG (INSPIRE)",
-    "authors": ["A Gorenshtein", "M Sorka", "M Khateb", "D Aran", "S Shelly"],
-    "journal": "Clinical Neurophysiology",
-    "year": 2025,
-    "doi": "10.1016/j.clinph.2025.2110792",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["AI", "neurology", "EMG"]
+    "tags": [
+      "AI",
+      "neurology",
+      "clinical reasoning"
+    ]
   },
   {
     "title": "AI Based Clinical Decision-Making Tool for Neurologists in the Emergency Department",
-    "authors": ["A Gorenshtein", "S Fistel", "M Sorka", "G Telman", "R Winer", "S Peretz", "D Aran", "S Shelly"],
+    "authors": [
+      "A Gorenshtein",
+      "S Fistel",
+      "M Sorka",
+      "G Telman",
+      "R Winer",
+      "S Peretz",
+      "D Aran",
+      "S Shelly"
+    ],
     "journal": "Journal of Clinical Medicine",
     "year": 2025,
     "doi": "10.3390/jcm14176333",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["AI", "clinical decision support", "neurology"]
+    "tags": [
+      "AI",
+      "clinical decision support",
+      "neurology"
+    ]
   },
   {
-    "title": "Fine-Pruning: A Biologically Inspired Algorithm for Personalization of Machine Learning Models",
-    "authors": ["J Bingham", "S Zonouz", "D Aran"],
-    "journal": "Patterns",
+    "title": "Agent-guided AI-powered Interpretation and Reporting of Nerve Conduction Studies and EMG (INSPIRE)",
+    "authors": [
+      "A Gorenshtein",
+      "M Sorka",
+      "M Khateb",
+      "D Aran",
+      "S Shelly"
+    ],
+    "journal": "Clinical Neurophysiology",
     "year": 2025,
-    "doi": null,
+    "doi": "10.1016/j.clinph.2025.2110792",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["machine learning", "personalization"]
+    "tags": [
+      "AI",
+      "neurology",
+      "EMG"
+    ]
   },
   {
-    "title": "SLAYER: A Computational Framework for Identifying Synthetic Lethal Interactions through Integrated Analysis of Cancer Dependencies",
-    "authors": ["Z Cohen", "E Petrenko", "AS Barisaac", "ER Abu-Zhayia", "C Yanovich-Ben-Uriel", "N Ayoub", "D Aran"],
-    "journal": "NAR Genomics and Bioinformatics",
-    "year": 2025,
-    "doi": "10.1093/nargab/lqaf052",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["synthetic lethality", "cancer", "computational"]
-  },
-  {
-    "title": "LITERAS: Literature Review and Citation Retrieval Agents",
-    "authors": ["A Gorenshtein", "K Shihada", "M Sorka", "D Aran", "S Shelly"],
-    "journal": "Computers in Biology and Medicine",
-    "year": 2025,
-    "doi": "10.1016/j.compbiomed.2025.110363",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["AI", "literature review", "NLP"]
-  },
-  {
-    "title": "Tumor Cell-Adipocyte Gap Junctions Activate Lipolysis and Contribute to Breast Tumorigenesis",
-    "authors": ["J Williams", "R Camarda", "S Malkov", "LJ Zimmerman", "S Manning", "D Aran", "A Beardsley", "D Van de Mark", "R Nakagawa", "Y Chen", "C Berdan", "SM Louie", "C Mahieu", "D Superville", "J Winkler", "E Willey", "JD Gagnon", "S Kilinc Avsaroglu", "K Shinoda", "M Gruner", "H Nishida", "KM Ansel", "Z Werb", "DK Nomura", "S Kajimura", "AJ Butte", "ME Sanders", "DC Liebler", "H Rugo", "G Krings", "JA Shepherd", "A Goga"],
+    "title": "CellMentor: Cell-Type Aware Dimensionality Reduction for Single-cell RNA-Sequencing Data",
+    "authors": [
+      "O Hevdeli",
+      "E Petrenko",
+      "D Aran"
+    ],
     "journal": "Nature Communications",
     "year": 2025,
-    "doi": "10.1038/s41467-025-62486-3",
+    "doi": "10.1038/s41467-025-67088-7",
     "pub_type": "journal",
-    "featured": false,
-    "tags": ["breast cancer", "tumor microenvironment"]
-  },
-  {
-    "title": "Survival and Autoimmune Risks Post-Thymectomy: Insights from Myasthenia Gravis and Non-MG Populations",
-    "authors": ["I Tsirkin", "M Khateb", "D Aran", "A Kaz", "S Shelly"],
-    "journal": "Frontiers in Immunology",
-    "year": 2025,
-    "doi": "10.3389/fimmu.2025.1504496",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["autoimmune", "thymectomy", "myasthenia gravis"]
+    "featured": true,
+    "tags": [
+      "scRNA-seq",
+      "dimensionality reduction"
+    ]
   },
   {
     "title": "Evaluating GPT-4 as a Clinical Decision Support Tool in Ischemic Stroke Management",
-    "authors": ["AH Shmilovitz", "M Katson", "M Cohen-Shelly", "S Peretz", "D Aran", "S Shelly"],
+    "authors": [
+      "AH Shmilovitz",
+      "M Katson",
+      "M Cohen-Shelly",
+      "S Peretz",
+      "D Aran",
+      "S Shelly"
+    ],
     "journal": "JMIR AI",
     "year": 2025,
     "doi": "10.2196/60391",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["GPT-4", "clinical decision support", "stroke"]
+    "tags": [
+      "GPT-4",
+      "clinical decision support",
+      "stroke"
+    ]
+  },
+  {
+    "title": "Fine-Pruning: A Biologically Inspired Algorithm for Personalization of Machine Learning Models",
+    "authors": [
+      "J Bingham",
+      "S Zonouz",
+      "D Aran"
+    ],
+    "journal": "Patterns",
+    "year": 2025,
+    "doi": "10.1016/j.patter.2025.101242",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "machine learning",
+      "personalization"
+    ]
   },
   {
     "title": "From Gene Lists to Context Drift",
-    "authors": ["Z Lin", "D Aran"],
+    "authors": [
+      "Z Lin",
+      "D Aran"
+    ],
     "journal": "Cancer Cell",
     "year": 2025,
     "doi": "10.1016/j.ccell.2025.07.025",
     "pub_type": "review",
     "featured": false,
-    "tags": ["review", "cancer", "gene expression"]
+    "tags": [
+      "review",
+      "cancer",
+      "gene expression"
+    ]
   },
   {
-    "title": "Twenty-Five Years of AI in Neurology: The Journey of Predictive Medicine and Biological Breakthroughs",
-    "authors": ["B Gutman", "AH Shmilovitch", "D Aran", "S Shelly"],
-    "journal": "JMIR Neurotechnology",
-    "year": 2024,
-    "doi": "10.2196/59556",
-    "pub_type": "review",
-    "featured": false,
-    "tags": ["review", "AI", "neurology"]
-  },
-  {
-    "title": "Inhibition of Osteosarcoma Metastasis in vivo by Targeted Downregulation of MMP1 and MMP9",
-    "authors": ["O Doppelt-Flikshtain", "T Asbi", "A Younis", "O Ginesin", "Z Cohen", "T Tamari", "T Berg", "C Yanovich", "D Aran", "Y Zohar", "YG Assaraf", "H Zigdon-Giladi"],
-    "journal": "Matrix Biology",
-    "year": 2024,
-    "doi": "10.1016/j.matbio.2024.09.002",
+    "title": "LITERAS: Literature Review and Citation Retrieval Agents",
+    "authors": [
+      "A Gorenshtein",
+      "K Shihada",
+      "M Sorka",
+      "D Aran",
+      "S Shelly"
+    ],
+    "journal": "Computers in Biology and Medicine",
+    "year": 2025,
+    "doi": "10.1016/j.compbiomed.2025.110363",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["osteosarcoma", "metastasis"]
+    "tags": [
+      "AI",
+      "literature review",
+      "NLP"
+    ]
   },
   {
-    "title": "Integration of Transcription Regulation and Functional Genomic Data Reveals lncRNA SNHG6's Role in Hematopoietic Differentiation and Leukemia",
-    "authors": ["JM Hazan", "R Amador", "T Ali-Nasser", "T Lahav", "SR Shotan", "M Steinberg", "Z Cohen", "D Aran", "D Meiri", "YG Assaraf", "R Guigó", "AC Bester"],
-    "journal": "Journal of Biomedical Science",
-    "year": 2024,
-    "doi": "10.1186/s12929-024-01015-8",
+    "title": "Machine-learning of medical cannabis chemical profiles reveals analgesia beyond placebo expectations",
+    "authors": [
+      "A Hatav",
+      "Y Vysotski",
+      "A Shapira",
+      "S Procaccia",
+      "D Meiri",
+      "D Aran"
+    ],
+    "journal": "Communications Medicine",
+    "year": 2025,
+    "doi": "10.1038/s43856-025-00996-3",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["lncRNA", "leukemia", "hematopoiesis"]
+    "tags": [
+      "machine learning",
+      "cannabis",
+      "pain",
+      "clinical"
+    ]
   },
   {
-    "title": "ICU Bloodstream Infection Prediction: A Transformer-Based Approach for EHR Analysis",
-    "authors": ["O Hirszowicz", "D Aran"],
-    "journal": "Artificial Intelligence in Medicine (AIME)",
-    "year": 2024,
-    "doi": "10.1007/978-3-031-66538-7_28",
-    "pub_type": "conference",
-    "featured": false,
-    "tags": ["transformers", "EHR", "ICU", "clinical informatics"]
-  },
-  {
-    "title": "Transformer-Based Time-to-Event Prediction for Chronic Kidney Disease Deterioration",
-    "authors": ["M Zisser", "D Aran"],
-    "journal": "Journal of the American Medical Informatics Association (JAMIA)",
-    "year": 2024,
-    "doi": "10.1093/jamia/ocae025",
+    "title": "Over- and Under-estimation of Vaccine Effectiveness",
+    "authors": [
+      "H De-Leon",
+      "D Aran"
+    ],
+    "journal": "BMC Medical Research Methodology",
+    "year": 2025,
+    "doi": "10.1186/s12874-025-02611-4",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["transformers", "CKD", "clinical informatics"]
+    "tags": [
+      "vaccines",
+      "epidemiology",
+      "methodology"
+    ]
+  },
+  {
+    "title": "SLAYER: A Computational Framework for Identifying Synthetic Lethal Interactions through Integrated Analysis of Cancer Dependencies",
+    "authors": [
+      "Z Cohen",
+      "E Petrenko",
+      "AS Barisaac",
+      "ER Abu-Zhayia",
+      "C Yanovich-Ben-Uriel",
+      "N Ayoub",
+      "D Aran"
+    ],
+    "journal": "NAR Genomics and Bioinformatics",
+    "year": 2025,
+    "doi": "10.1093/nargab/lqaf052",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "synthetic lethality",
+      "cancer",
+      "computational"
+    ]
+  },
+  {
+    "title": "Survival and Autoimmune Risks Post-Thymectomy: Insights from Myasthenia Gravis and Non-MG Populations",
+    "authors": [
+      "I Tsirkin",
+      "M Khateb",
+      "D Aran",
+      "A Kaz",
+      "S Shelly"
+    ],
+    "journal": "Frontiers in Immunology",
+    "year": 2025,
+    "doi": "10.3389/fimmu.2025.1504496",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "autoimmune",
+      "thymectomy",
+      "myasthenia gravis"
+    ]
+  },
+  {
+    "title": "Tumor Cell-Adipocyte Gap Junctions Activate Lipolysis and Contribute to Breast Tumorigenesis",
+    "authors": [
+      "J Williams",
+      "R Camarda",
+      "S Malkov",
+      "LJ Zimmerman",
+      "S Manning",
+      "D Aran",
+      "A Beardsley",
+      "D Van de Mark",
+      "R Nakagawa",
+      "Y Chen",
+      "C Berdan",
+      "SM Louie",
+      "C Mahieu",
+      "D Superville",
+      "J Winkler",
+      "E Willey",
+      "JD Gagnon",
+      "S Kilinc Avsaroglu",
+      "K Shinoda",
+      "M Gruner",
+      "H Nishida",
+      "KM Ansel",
+      "Z Werb",
+      "DK Nomura",
+      "S Kajimura",
+      "AJ Butte",
+      "ME Sanders",
+      "DC Liebler",
+      "H Rugo",
+      "G Krings",
+      "JA Shepherd",
+      "A Goga"
+    ],
+    "journal": "Nature Communications",
+    "year": 2025,
+    "doi": "10.1038/s41467-025-62486-3",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "breast cancer",
+      "tumor microenvironment"
+    ]
+  },
+  {
+    "title": "xCell 2.0: Robust Algorithm for Cell Type Proportion Estimation Predicts Response to Immune Checkpoint Blockade",
+    "authors": [
+      "A Angel",
+      "L Naom",
+      "S Nabet-Levy",
+      "D Aran"
+    ],
+    "journal": "Genome Biology",
+    "year": 2025,
+    "doi": "10.1186/s13059-025-03784-3",
+    "pub_type": "journal",
+    "featured": true,
+    "tags": [
+      "deconvolution",
+      "immunotherapy",
+      "xCell"
+    ]
   },
   {
     "title": "Comparative Efficacy of Combined CTLA-4 and PD-1 Blockade vs. PD-1 Monotherapy in Metastatic Melanoma: A Real-World Study",
-    "authors": ["A Klein-Brill", "S Amar-Farkash", "K Rosenberg-Katz", "R Brenner", "JC Becker", "D Aran"],
+    "authors": [
+      "A Klein-Brill",
+      "S Amar-Farkash",
+      "K Rosenberg-Katz",
+      "R Brenner",
+      "JC Becker",
+      "D Aran"
+    ],
     "journal": "BJC Reports",
     "year": 2024,
     "doi": "10.1038/s44276-024-00041-1",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["immunotherapy", "melanoma", "real-world data"]
+    "tags": [
+      "immunotherapy",
+      "melanoma",
+      "real-world data"
+    ]
   },
   {
-    "title": "Exhausted Intratumoral Vδ2− γδ T Cells in Human Kidney Cancer Retain Effector Function",
-    "authors": ["C Rancan", "M Arias-Badia", "P Dogra", "B Chen", "D Aran", "H Yang", "D Luong", "A Ilano", "J Li", "H Chang", "SS Kwek", "L Zhang", "LL Lanier", "MV Meng", "DL Farber", "L Fong"],
-    "journal": "Nature Immunology",
-    "year": 2023,
-    "doi": "10.1038/s41590-023-01448-7",
+    "title": "ICU Bloodstream Infection Prediction: A Transformer-Based Approach for EHR Analysis",
+    "authors": [
+      "O Hirszowicz",
+      "D Aran"
+    ],
+    "journal": "Artificial Intelligence in Medicine (AIME)",
+    "year": 2024,
+    "doi": "10.1007/978-3-031-66538-7_28",
+    "pub_type": "conference",
+    "featured": false,
+    "tags": [
+      "transformers",
+      "EHR",
+      "ICU",
+      "clinical informatics"
+    ]
+  },
+  {
+    "title": "Inhibition of Osteosarcoma Metastasis in vivo by Targeted Downregulation of MMP1 and MMP9",
+    "authors": [
+      "O Doppelt-Flikshtain",
+      "T Asbi",
+      "A Younis",
+      "O Ginesin",
+      "Z Cohen",
+      "T Tamari",
+      "T Berg",
+      "C Yanovich",
+      "D Aran",
+      "Y Zohar",
+      "YG Assaraf",
+      "H Zigdon-Giladi"
+    ],
+    "journal": "Matrix Biology",
+    "year": 2024,
+    "doi": "10.1016/j.matbio.2024.09.002",
     "pub_type": "journal",
-    "featured": true,
-    "tags": ["cancer immunology", "T cells", "kidney cancer"]
+    "featured": false,
+    "tags": [
+      "osteosarcoma",
+      "metastasis"
+    ]
   },
   {
-    "title": "Single-Cell RNA Sequencing for Studying Human Cancers",
-    "authors": ["D Aran"],
-    "journal": "Annual Review of Biomedical Data Science",
-    "year": 2023,
-    "doi": "10.1146/annurev-biodatasci-020722-091857",
+    "title": "Integration of Transcription Regulation and Functional Genomic Data Reveals lncRNA SNHG6's Role in Hematopoietic Differentiation and Leukemia",
+    "authors": [
+      "JM Hazan",
+      "R Amador",
+      "T Ali-Nasser",
+      "T Lahav",
+      "SR Shotan",
+      "M Steinberg",
+      "Z Cohen",
+      "D Aran",
+      "D Meiri",
+      "YG Assaraf",
+      "R Guig\u00f3",
+      "AC Bester"
+    ],
+    "journal": "Journal of Biomedical Science",
+    "year": 2024,
+    "doi": "10.1186/s12929-024-01015-8",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "lncRNA",
+      "leukemia",
+      "hematopoiesis"
+    ]
+  },
+  {
+    "title": "Transformer-Based Time-to-Event Prediction for Chronic Kidney Disease Deterioration",
+    "authors": [
+      "M Zisser",
+      "D Aran"
+    ],
+    "journal": "Journal of the American Medical Informatics Association (JAMIA)",
+    "year": 2024,
+    "doi": "10.1093/jamia/ocae025",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "transformers",
+      "CKD",
+      "clinical informatics"
+    ]
+  },
+  {
+    "title": "Twenty-Five Years of AI in Neurology: The Journey of Predictive Medicine and Biological Breakthroughs",
+    "authors": [
+      "B Gutman",
+      "AH Shmilovitch",
+      "D Aran",
+      "S Shelly"
+    ],
+    "journal": "JMIR Neurotechnology",
+    "year": 2024,
+    "doi": "10.2196/59556",
     "pub_type": "review",
     "featured": false,
-    "tags": ["review", "scRNA-seq", "cancer"]
+    "tags": [
+      "review",
+      "AI",
+      "neurology"
+    ]
   },
   {
     "title": "Comparative Analysis of First-Line FOLFOX Treatment With and Without Anti-VEGF Therapy in Metastatic Colorectal Carcinoma: A Real-World Data Study",
-    "authors": ["R Brenner", "S Amar-Farkash", "A Klein-Brill", "K Rosenberg-Katz", "D Aran"],
+    "authors": [
+      "R Brenner",
+      "S Amar-Farkash",
+      "A Klein-Brill",
+      "K Rosenberg-Katz",
+      "D Aran"
+    ],
     "journal": "Cancer Control",
     "year": 2023,
     "doi": "10.1177/10732748231202470",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["colorectal cancer", "real-world data", "chemotherapy"]
+    "tags": [
+      "colorectal cancer",
+      "real-world data",
+      "chemotherapy"
+    ]
+  },
+  {
+    "title": "Exhausted Intratumoral V\u03b42\u2212 \u03b3\u03b4 T Cells in Human Kidney Cancer Retain Effector Function",
+    "authors": [
+      "C Rancan",
+      "M Arias-Badia",
+      "P Dogra",
+      "B Chen",
+      "D Aran",
+      "H Yang",
+      "D Luong",
+      "A Ilano",
+      "J Li",
+      "H Chang",
+      "SS Kwek",
+      "L Zhang",
+      "LL Lanier",
+      "MV Meng",
+      "DL Farber",
+      "L Fong"
+    ],
+    "journal": "Nature Immunology",
+    "year": 2023,
+    "doi": "10.1038/s41590-023-01448-7",
+    "pub_type": "journal",
+    "featured": true,
+    "tags": [
+      "cancer immunology",
+      "T cells",
+      "kidney cancer"
+    ]
   },
   {
     "title": "MAM: Flexible Monte-Carlo Agent Based Model for Modelling COVID-19 Spread",
-    "authors": ["H De-Leon", "D Aran"],
+    "authors": [
+      "H De-Leon",
+      "D Aran"
+    ],
     "journal": "Journal of Biomedical Informatics",
     "year": 2023,
     "doi": "10.1016/j.jbi.2023.104364",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["COVID-19", "agent-based model", "epidemiology"]
+    "tags": [
+      "COVID-19",
+      "agent-based model",
+      "epidemiology"
+    ]
+  },
+  {
+    "title": "Single-Cell RNA Sequencing for Studying Human Cancers",
+    "authors": [
+      "D Aran"
+    ],
+    "journal": "Annual Review of Biomedical Data Science",
+    "year": 2023,
+    "doi": "10.1146/annurev-biodatasci-020722-091857",
+    "pub_type": "review",
+    "featured": false,
+    "tags": [
+      "review",
+      "scRNA-seq",
+      "cancer"
+    ]
   },
   {
     "title": "Comparison of FOLFIRINOX vs Gemcitabine Plus Nab-Paclitaxel as First-Line Chemotherapy for Metastatic Pancreatic Ductal Adenocarcinoma",
-    "authors": ["A Klein-Brill", "S Amar-Farkash", "G Lawrence", "EA Collisson", "D Aran"],
+    "authors": [
+      "A Klein-Brill",
+      "S Amar-Farkash",
+      "G Lawrence",
+      "EA Collisson",
+      "D Aran"
+    ],
     "journal": "JAMA Network Open",
     "year": 2022,
     "doi": "10.1001/jamanetworkopen.2022.16199",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["pancreatic cancer", "chemotherapy", "real-world data"]
-  },
-  {
-    "title": "Molecular Programs of Fibrotic Change in Aging Human Lung",
-    "authors": ["S Lee", "MN Islam", "K Boostanpour", "D Aran", "G Jin", "S Christenson", "MA Matthay", "WL Eckalbar", "DJ DePianto", "JR Arron", "L Magee", "S Bhattacharya", "R Matsumoto", "M Kubota", "DL Farber", "J Bhattacharya", "PJ Wolters", "M Bhattacharya"],
-    "journal": "Nature Communications",
-    "year": 2021,
-    "doi": "10.1038/s41467-021-26603-2",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["lung", "fibrosis", "aging"]
+    "tags": [
+      "pancreatic cancer",
+      "chemotherapy",
+      "real-world data"
+    ]
   },
   {
     "title": "CNS Fibroblasts Form a Fibrotic Scar in Response to Immune Cell Infiltration",
-    "authors": ["CE Dorrier", "D Aran", "EA Haenelt", "RN Sheehy", "KK Hoi", "L Pintarić", "Y Chen", "CO Lizama", "KM Cautivo", "GA Weiner", "B Popko", "SPJ Fancy", "TD Arnold", "R Daneman"],
+    "authors": [
+      "CE Dorrier",
+      "D Aran",
+      "EA Haenelt",
+      "RN Sheehy",
+      "KK Hoi",
+      "L Pintari\u0107",
+      "Y Chen",
+      "CO Lizama",
+      "KM Cautivo",
+      "GA Weiner",
+      "B Popko",
+      "SPJ Fancy",
+      "TD Arnold",
+      "R Daneman"
+    ],
     "journal": "Nature Neuroscience",
     "year": 2021,
     "doi": "10.1038/s41593-020-00770-9",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["CNS", "fibrosis", "neuroscience"]
+    "tags": [
+      "CNS",
+      "fibrosis",
+      "neuroscience"
+    ],
+    "cited_by_count": 195
+  },
+  {
+    "title": "Estimating Real-World COVID-19 Vaccine Effectiveness in Israel Using Aggregated Counts",
+    "authors": [
+      "H De-Leon",
+      "R Calderon-Margalit",
+      "F Pederiva",
+      "Y Ashkenazy",
+      "D Aran"
+    ],
+    "journal": "medRxiv",
+    "year": 2021,
+    "doi": "10.1101/2021.02.05.21251139",
+    "pub_type": "preprint",
+    "featured": false,
+    "tags": [
+      "COVID-19",
+      "vaccination",
+      "epidemiology"
+    ]
   },
   {
     "title": "Extracting Insights from Heterogeneous Tissues",
-    "authors": ["D Aran"],
+    "authors": [
+      "D Aran"
+    ],
     "journal": "Nature Computational Science",
     "year": 2021,
     "doi": "10.1038/s43588-021-00061-8",
     "pub_type": "review",
     "featured": false,
-    "tags": ["review", "deconvolution", "tissue heterogeneity"]
+    "tags": [
+      "review",
+      "deconvolution",
+      "tissue heterogeneity"
+    ]
   },
   {
-    "title": "Prior Presumed Coronavirus Infection Reduces COVID-19 Risk: A Cohort Study",
-    "authors": ["D Aran", "DC Beachler", "S Lanes", "JM Overhage"],
-    "journal": "The Journal of Infection",
-    "year": 2020,
-    "doi": "10.1016/j.jinf.2020.10.023",
-    "pub_type": "journal",
-    "featured": true,
-    "tags": ["COVID-19", "epidemiology"]
+    "title": "Initial Real World Evidence for Lower Viral Load of Individuals Who Have Been Vaccinated by BNT162b2",
+    "authors": [
+      "H De-Leon",
+      "F Pederiva",
+      "D Aran"
+    ],
+    "journal": "medRxiv",
+    "year": 2021,
+    "doi": "10.1101/2021.02.08.21251329",
+    "pub_type": "preprint",
+    "featured": false,
+    "tags": [
+      "COVID-19",
+      "vaccination",
+      "viral load"
+    ]
   },
   {
-    "title": "Human Splice Factors Contribute to Latent HIV Infection in Primary Cell Models and Blood CD4+ T Cells from ART-Treated Individuals",
-    "authors": ["S Moron-Lopez", "S Telwatte", "I Sarabia", "E Battivelli", "M Montano", "AB Macedo", "D Aran", "AJ Butte", "RB Jones", "A Bosque", "E Verdin", "WC Greene", "JK Wong", "SA Yukl"],
-    "journal": "PLoS Pathogens",
-    "year": 2020,
-    "doi": "10.1371/journal.ppat.1009060",
+    "title": "Molecular Programs of Fibrotic Change in Aging Human Lung",
+    "authors": [
+      "S Lee",
+      "MN Islam",
+      "K Boostanpour",
+      "D Aran",
+      "G Jin",
+      "S Christenson",
+      "MA Matthay",
+      "WL Eckalbar",
+      "DJ DePianto",
+      "JR Arron",
+      "L Magee",
+      "S Bhattacharya",
+      "R Matsumoto",
+      "M Kubota",
+      "DL Farber",
+      "J Bhattacharya",
+      "PJ Wolters",
+      "M Bhattacharya"
+    ],
+    "journal": "Nature Communications",
+    "year": 2021,
+    "doi": "10.1038/s41467-021-26603-2",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["HIV", "latency", "splice factors"]
+    "tags": [
+      "lung",
+      "fibrosis",
+      "aging"
+    ]
   },
   {
-    "title": "Intratumoral CD4 T Cells Mediate Anti-tumor Cytotoxicity in Human Bladder Cancer",
-    "authors": ["DY Oh", "SS Kwek", "SS Raju", "T Li", "E McCarthy", "E Chow", "D Aran", "A Ilano", "C-CS Pai", "C Rancan", "K Allaire", "A Burra", "Y Sun", "MH Spitzer", "S Mangul", "S Porten", "MV Meng", "TW Friedlander", "CJ Ye", "L Fong"],
-    "journal": "Cell",
+    "title": "Cell-Type Enrichment Analysis of Bulk Transcriptomes Using xCell",
+    "authors": [
+      "D Aran"
+    ],
+    "journal": "Methods in Molecular Biology",
     "year": 2020,
-    "doi": "10.1016/j.cell.2020.05.017",
-    "pub_type": "journal",
-    "featured": true,
-    "tags": ["cancer immunology", "T cells", "bladder cancer"]
-  },
-  {
-    "title": "Implementation of Machine Learning Models for the Prediction of Vaginal Birth After Cesarean Delivery",
-    "authors": ["R Meyer", "N Hendin", "M Zamir", "N Mor", "G Levin", "E Sivan", "D Aran", "A Tsur"],
-    "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
-    "year": 2020,
-    "doi": "10.1080/14767058.2020.1837769",
-    "pub_type": "journal",
+    "doi": "10.1007/978-1-0716-0327-7_19",
+    "pub_type": "book_chapter",
     "featured": false,
-    "tags": ["machine learning", "obstetrics"]
+    "tags": [
+      "xCell",
+      "deconvolution",
+      "methods"
+    ],
+    "cited_by_count": 249
   },
   {
     "title": "Development and Validation of a Machine-Learning Model for Prediction of Shoulder Dystocia",
-    "authors": ["A Tsur", "L Batsry", "S Toussia-Cohen", "MG Rosenstein", "O Barak", "Y Brezinov", "R Yoeli-Ullman", "E Sivan", "M Sirota", "ML Druzin", "DK Stevenson", "YJ Blumenfeld", "D Aran"],
+    "authors": [
+      "A Tsur",
+      "L Batsry",
+      "S Toussia-Cohen",
+      "MG Rosenstein",
+      "O Barak",
+      "Y Brezinov",
+      "R Yoeli-Ullman",
+      "E Sivan",
+      "M Sirota",
+      "ML Druzin",
+      "DK Stevenson",
+      "YJ Blumenfeld",
+      "D Aran"
+    ],
     "journal": "Ultrasound in Obstetrics & Gynecology",
     "year": 2020,
     "doi": "10.1002/uog.21878",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["machine learning", "obstetrics"]
+    "tags": [
+      "machine learning",
+      "obstetrics"
+    ]
   },
   {
-    "title": "Reference-Based Analysis of Lung Single-Cell Sequencing Reveals a Transitional Profibrotic Macrophage",
-    "authors": ["D Aran", "AP Looney", "L Liu", "E Wu", "V Fong", "A Hsu", "S Chak", "RP Naikawadi", "PJ Wolters", "AR Abate", "AJ Butte", "M Bhattacharya"],
-    "journal": "Nature Immunology",
-    "year": 2019,
-    "doi": "10.1038/s41590-018-0276-y",
-    "pub_type": "journal",
-    "featured": true,
-    "tags": ["scRNA-seq", "macrophages", "lung fibrosis", "SingleR"]
-  },
-  {
-    "title": "Comprehensive Transcriptomic Analysis of Cell Lines as Models of Primary Tumors across 22 Tumor Types",
-    "authors": ["K Yu", "B Chen", "D Aran", "J Charalel", "C Yau", "DM Wolf", "LJ van 't Veer", "AJ Butte", "T Goldstein", "M Sirota"],
-    "journal": "Nature Communications",
-    "year": 2019,
-    "doi": "10.1038/s41467-019-11415-2",
+    "title": "Human Splice Factors Contribute to Latent HIV Infection in Primary Cell Models and Blood CD4+ T Cells from ART-Treated Individuals",
+    "authors": [
+      "S Moron-Lopez",
+      "S Telwatte",
+      "I Sarabia",
+      "E Battivelli",
+      "M Montano",
+      "AB Macedo",
+      "D Aran",
+      "AJ Butte",
+      "RB Jones",
+      "A Bosque",
+      "E Verdin",
+      "WC Greene",
+      "JK Wong",
+      "SA Yukl"
+    ],
+    "journal": "PLoS Pathogens",
+    "year": 2020,
+    "doi": "10.1371/journal.ppat.1009060",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["cell lines", "cancer", "transcriptomics"]
+    "tags": [
+      "HIV",
+      "latency",
+      "splice factors"
+    ]
   },
   {
-    "title": "CD161 Contributes to Prenatal Immune Suppression of IFNγ-Producing PLZF+ T Cells",
-    "authors": ["J Halkias", "E Rackaityte", "SL Hillman", "D Aran", "VF Mendoza", "LR Marshall", "TC MacKenzie", "TD Burt"],
+    "title": "Implementation of Machine Learning Models for the Prediction of Vaginal Birth After Cesarean Delivery",
+    "authors": [
+      "R Meyer",
+      "N Hendin",
+      "M Zamir",
+      "N Mor",
+      "G Levin",
+      "E Sivan",
+      "D Aran",
+      "A Tsur"
+    ],
+    "journal": "The Journal of Maternal-Fetal & Neonatal Medicine",
+    "year": 2020,
+    "doi": "10.1080/14767058.2020.1837769",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "machine learning",
+      "obstetrics"
+    ]
+  },
+  {
+    "title": "Intratumoral CD4 T Cells Mediate Anti-tumor Cytotoxicity in Human Bladder Cancer",
+    "authors": [
+      "DY Oh",
+      "SS Kwek",
+      "SS Raju",
+      "T Li",
+      "E McCarthy",
+      "E Chow",
+      "D Aran",
+      "A Ilano",
+      "C-CS Pai",
+      "C Rancan",
+      "K Allaire",
+      "A Burra",
+      "Y Sun",
+      "MH Spitzer",
+      "S Mangul",
+      "S Porten",
+      "MV Meng",
+      "TW Friedlander",
+      "CJ Ye",
+      "L Fong"
+    ],
+    "journal": "Cell",
+    "year": 2020,
+    "doi": "10.1016/j.cell.2020.05.017",
+    "pub_type": "journal",
+    "featured": true,
+    "tags": [
+      "cancer immunology",
+      "T cells",
+      "bladder cancer"
+    ],
+    "cited_by_count": 713
+  },
+  {
+    "title": "Prior Presumed Coronavirus Infection Reduces COVID-19 Risk: A Cohort Study",
+    "authors": [
+      "D Aran",
+      "DC Beachler",
+      "S Lanes",
+      "JM Overhage"
+    ],
+    "journal": "The Journal of Infection",
+    "year": 2020,
+    "doi": "10.1016/j.jinf.2020.10.023",
+    "pub_type": "journal",
+    "featured": true,
+    "tags": [
+      "COVID-19",
+      "epidemiology"
+    ]
+  },
+  {
+    "title": "CD161 Contributes to Prenatal Immune Suppression of IFN\u03b3-Producing PLZF+ T Cells",
+    "authors": [
+      "J Halkias",
+      "E Rackaityte",
+      "SL Hillman",
+      "D Aran",
+      "VF Mendoza",
+      "LR Marshall",
+      "TC MacKenzie",
+      "TD Burt"
+    ],
     "journal": "The Journal of Clinical Investigation",
     "year": 2019,
     "doi": "10.1172/jci125957",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["immunology", "prenatal", "T cells"]
+    "tags": [
+      "immunology",
+      "prenatal",
+      "T cells"
+    ]
+  },
+  {
+    "title": "Comprehensive Transcriptomic Analysis of Cell Lines as Models of Primary Tumors across 22 Tumor Types",
+    "authors": [
+      "K Yu",
+      "B Chen",
+      "D Aran",
+      "J Charalel",
+      "C Yau",
+      "DM Wolf",
+      "LJ van 't Veer",
+      "AJ Butte",
+      "T Goldstein",
+      "M Sirota"
+    ],
+    "journal": "Nature Communications",
+    "year": 2019,
+    "doi": "10.1038/s41467-019-11415-2",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "cell lines",
+      "cancer",
+      "transcriptomics"
+    ],
+    "cited_by_count": 154
   },
   {
     "title": "Heterogeneity in HIV and Cellular Transcription Profiles in Cell Line Models of Latent and Productive Infection",
-    "authors": ["S Telwatte", "S Morón-López", "D Aran", "P Kim", "C Hsieh", "S Joshi", "M Montano", "WC Greene", "AJ Butte", "JK Wong", "SA Yukl"],
+    "authors": [
+      "S Telwatte",
+      "S Mor\u00f3n-L\u00f3pez",
+      "D Aran",
+      "P Kim",
+      "C Hsieh",
+      "S Joshi",
+      "M Montano",
+      "WC Greene",
+      "AJ Butte",
+      "JK Wong",
+      "SA Yukl"
+    ],
     "journal": "Retrovirology",
     "year": 2019,
     "doi": "10.1186/s12977-019-0494-x",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["HIV", "latency", "transcriptomics"]
+    "tags": [
+      "HIV",
+      "latency",
+      "transcriptomics"
+    ]
+  },
+  {
+    "title": "Reference-Based Analysis of Lung Single-Cell Sequencing Reveals a Transitional Profibrotic Macrophage",
+    "authors": [
+      "D Aran",
+      "AP Looney",
+      "L Liu",
+      "E Wu",
+      "V Fong",
+      "A Hsu",
+      "S Chak",
+      "RP Naikawadi",
+      "PJ Wolters",
+      "AR Abate",
+      "AJ Butte",
+      "M Bhattacharya"
+    ],
+    "journal": "Nature Immunology",
+    "year": 2019,
+    "doi": "10.1038/s41590-018-0276-y",
+    "pub_type": "journal",
+    "featured": true,
+    "tags": [
+      "scRNA-seq",
+      "macrophages",
+      "lung fibrosis",
+      "SingleR"
+    ],
+    "cited_by_count": 4997
   },
   {
     "title": "Global Transcriptome Analysis of RNA Abundance Regulation by ADAR in Lung Adenocarcinoma",
-    "authors": ["MF Sharpnack", "B Chen", "D Aran", "I Kosti", "DD Sharpnack", "DP Carbone", "P Mallick", "K Huang"],
+    "authors": [
+      "MF Sharpnack",
+      "B Chen",
+      "D Aran",
+      "I Kosti",
+      "DD Sharpnack",
+      "DP Carbone",
+      "P Mallick",
+      "K Huang"
+    ],
     "journal": "EBioMedicine",
     "year": 2018,
     "doi": "10.1016/j.ebiom.2017.12.005",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["ADAR", "RNA editing", "lung cancer"]
-  },
-  {
-    "title": "xCell: Digitally Portraying the Tissue Cellular Heterogeneity Landscape",
-    "authors": ["D Aran", "Z Hu", "AJ Butte"],
-    "journal": "Genome Biology",
-    "year": 2017,
-    "doi": "10.1186/s13059-017-1349-1",
-    "pub_type": "journal",
-    "featured": true,
-    "tags": ["deconvolution", "immune cells", "xCell"]
-  },
-  {
-    "title": "Comprehensive Analysis of Normal Adjacent to Tumor Transcriptomes",
-    "authors": ["D Aran", "R Camarda", "J Odegaard", "H Paik", "B Oskotsky", "G Krings", "A Goga", "M Sirota", "AJ Butte"],
-    "journal": "Nature Communications",
-    "year": 2017,
-    "doi": "10.1038/s41467-017-01027-z",
-    "pub_type": "journal",
-    "featured": true,
-    "tags": ["tumor microenvironment", "transcriptomics"]
-  },
-  {
-    "title": "Precision Annotation of Digital Samples in NCBI's Gene Expression Omnibus",
-    "authors": ["D Hadley", "J Pan", "O El-Sayed", "J Aljabban", "I Aljabban", "TD Azad", "MO Hadied", "S Raza", "BA Rayikanti", "B Chen", "H Paik", "D Aran", "J Spatz", "D Himmelstein", "M Panahiazar", "S Bhattacharya", "M Sirota", "MA Musen", "AJ Butte"],
-    "journal": "Scientific Data",
-    "year": 2017,
-    "doi": "10.1038/sdata.2017.125",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["GEO", "annotation", "data science"]
+    "tags": [
+      "ADAR",
+      "RNA editing",
+      "lung cancer"
+    ]
   },
   {
     "title": "Cancer Cell-Autonomous Parainflammation Mimics Immune Cell Infiltration",
-    "authors": ["A Lasry", "D Aran", "AJ Butte", "Y Ben-Neriah"],
+    "authors": [
+      "A Lasry",
+      "D Aran",
+      "AJ Butte",
+      "Y Ben-Neriah"
+    ],
     "journal": "Cancer Research",
     "year": 2017,
     "doi": "10.1158/0008-5472.can-16-3383",
     "pub_type": "review",
     "featured": false,
-    "tags": ["parainflammation", "cancer", "immune"]
+    "tags": [
+      "parainflammation",
+      "cancer",
+      "immune"
+    ]
   },
   {
-    "title": "Widespread Parainflammation in Human Cancer",
-    "authors": ["D Aran", "A Lasry", "A Zinger", "M Biton", "E Pikarsky", "A Hellman", "AJ Butte", "Y Ben-Neriah"],
-    "journal": "Genome Biology",
-    "year": 2016,
-    "doi": "10.1186/s13059-016-0995-z",
+    "title": "Comprehensive Analysis of Normal Adjacent to Tumor Transcriptomes",
+    "authors": [
+      "D Aran",
+      "R Camarda",
+      "J Odegaard",
+      "H Paik",
+      "B Oskotsky",
+      "G Krings",
+      "A Goga",
+      "M Sirota",
+      "AJ Butte"
+    ],
+    "journal": "Nature Communications",
+    "year": 2017,
+    "doi": "10.1038/s41467-017-01027-z",
+    "pub_type": "journal",
+    "featured": true,
+    "tags": [
+      "tumor microenvironment",
+      "transcriptomics"
+    ],
+    "cited_by_count": 609
+  },
+  {
+    "title": "Precision Annotation of Digital Samples in NCBI's Gene Expression Omnibus",
+    "authors": [
+      "D Hadley",
+      "J Pan",
+      "O El-Sayed",
+      "J Aljabban",
+      "I Aljabban",
+      "TD Azad",
+      "MO Hadied",
+      "S Raza",
+      "BA Rayikanti",
+      "B Chen",
+      "H Paik",
+      "D Aran",
+      "J Spatz",
+      "D Himmelstein",
+      "M Panahiazar",
+      "S Bhattacharya",
+      "M Sirota",
+      "MA Musen",
+      "AJ Butte"
+    ],
+    "journal": "Scientific Data",
+    "year": 2017,
+    "doi": "10.1038/sdata.2017.125",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["parainflammation", "cancer", "pan-cancer"]
+    "tags": [
+      "GEO",
+      "annotation",
+      "data science"
+    ]
   },
   {
-    "title": "Digitally Deconvolving the Tumor Microenvironment",
-    "authors": ["D Aran", "AJ Butte"],
+    "title": "xCell: Digitally Portraying the Tissue Cellular Heterogeneity Landscape",
+    "authors": [
+      "D Aran",
+      "Z Hu",
+      "AJ Butte"
+    ],
     "journal": "Genome Biology",
-    "year": 2016,
-    "doi": "10.1186/s13059-016-1036-7",
-    "pub_type": "review",
-    "featured": false,
-    "tags": ["review", "deconvolution", "tumor microenvironment"]
-  },
-  {
-    "title": "Embryonic Stem Cell (ES)-Specific Enhancers Specify the Expression Potential of ES Genes in Cancer",
-    "authors": ["D Aran", "M Abu-Remaileh", "R Levy", "N Meron", "G Toperoff", "Y Edrei", "Y Bergman", "A Hellman"],
-    "journal": "PLoS Genetics",
-    "year": 2016,
-    "doi": "10.1371/journal.pgen.1005840",
+    "year": 2017,
+    "doi": "10.1186/s13059-017-1349-1",
     "pub_type": "journal",
-    "featured": false,
-    "tags": ["epigenetics", "stem cells", "cancer"]
+    "featured": true,
+    "tags": [
+      "deconvolution",
+      "immune cells",
+      "xCell"
+    ],
+    "cited_by_count": 4509
   },
   {
     "title": "Cross-Tissue Analysis of Gene and Protein Expression in Normal and Cancer Tissues",
-    "authors": ["I Kosti", "N Jain", "D Aran", "AJ Butte", "M Sirota"],
+    "authors": [
+      "I Kosti",
+      "N Jain",
+      "D Aran",
+      "AJ Butte",
+      "M Sirota"
+    ],
     "journal": "Scientific Reports",
     "year": 2016,
     "doi": "10.1038/srep24799",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["cross-tissue", "gene expression", "cancer"]
+    "tags": [
+      "cross-tissue",
+      "gene expression",
+      "cancer"
+    ],
+    "cited_by_count": 211
   },
   {
-    "title": "Systematic Pan-Cancer Analysis of Tumour Purity",
-    "authors": ["D Aran", "M Sirota", "AJ Butte"],
-    "journal": "Nature Communications",
-    "year": 2015,
-    "doi": "10.1038/ncomms9971",
+    "title": "Digitally Deconvolving the Tumor Microenvironment",
+    "authors": [
+      "D Aran",
+      "AJ Butte"
+    ],
+    "journal": "Genome Biology",
+    "year": 2016,
+    "doi": "10.1186/s13059-016-1036-7",
+    "pub_type": "review",
+    "featured": false,
+    "tags": [
+      "review",
+      "deconvolution",
+      "tumor microenvironment"
+    ]
+  },
+  {
+    "title": "Embryonic Stem Cell (ES)-Specific Enhancers Specify the Expression Potential of ES Genes in Cancer",
+    "authors": [
+      "D Aran",
+      "M Abu-Remaileh",
+      "R Levy",
+      "N Meron",
+      "G Toperoff",
+      "Y Edrei",
+      "Y Bergman",
+      "A Hellman"
+    ],
+    "journal": "PLoS Genetics",
+    "year": 2016,
+    "doi": "10.1371/journal.pgen.1005840",
     "pub_type": "journal",
-    "featured": true,
-    "tags": ["tumor purity", "pan-cancer", "TCGA"]
+    "featured": false,
+    "tags": [
+      "epigenetics",
+      "stem cells",
+      "cancer"
+    ]
+  },
+  {
+    "title": "Widespread Parainflammation in Human Cancer",
+    "authors": [
+      "D Aran",
+      "A Lasry",
+      "A Zinger",
+      "M Biton",
+      "E Pikarsky",
+      "A Hellman",
+      "AJ Butte",
+      "Y Ben-Neriah"
+    ],
+    "journal": "Genome Biology",
+    "year": 2016,
+    "doi": "10.1186/s13059-016-0995-z",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "parainflammation",
+      "cancer",
+      "pan-cancer"
+    ],
+    "cited_by_count": 127
   },
   {
     "title": "Premature Aging of Leukocyte DNA Methylation Is Associated with Type 2 Diabetes Prevalence",
-    "authors": ["G Toperoff", "JD Kark", "D Aran", "H Nassar", "WA Ahmad", "R Sinnreich", "D Azaiza", "B Glaser", "A Hellman"],
+    "authors": [
+      "G Toperoff",
+      "JD Kark",
+      "D Aran",
+      "H Nassar",
+      "WA Ahmad",
+      "R Sinnreich",
+      "D Azaiza",
+      "B Glaser",
+      "A Hellman"
+    ],
     "journal": "Clinical Epigenetics",
     "year": 2015,
     "doi": "10.1186/s13148-015-0069-1",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["epigenetics", "diabetes", "aging"]
+    "tags": [
+      "epigenetics",
+      "diabetes",
+      "aging"
+    ]
+  },
+  {
+    "title": "Systematic Pan-Cancer Analysis of Tumour Purity",
+    "authors": [
+      "D Aran",
+      "M Sirota",
+      "AJ Butte"
+    ],
+    "journal": "Nature Communications",
+    "year": 2015,
+    "doi": "10.1038/ncomms9971",
+    "pub_type": "journal",
+    "featured": true,
+    "tags": [
+      "tumor purity",
+      "pan-cancer",
+      "TCGA"
+    ],
+    "cited_by_count": 1271
   },
   {
     "title": "Unmasking Risk Loci: DNA Methylation Illuminates the Biology of Cancer Predisposition",
-    "authors": ["D Aran", "A Hellman"],
+    "authors": [
+      "D Aran",
+      "A Hellman"
+    ],
     "journal": "BioEssays",
     "year": 2014,
     "doi": "10.1002/bies.201300119",
     "pub_type": "review",
     "featured": false,
-    "tags": ["review", "epigenetics", "cancer predisposition"]
-  },
-  {
-    "title": "DNA Methylation of Distal Regulatory Sites Characterizes Dysregulation of Cancer Genes",
-    "authors": ["D Aran", "S Sabato", "A Hellman"],
-    "journal": "Genome Biology",
-    "year": 2013,
-    "doi": "10.1186/gb-2013-14-3-r21",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["epigenetics", "cancer", "regulation"]
-  },
-  {
-    "title": "DNA Methylation of Transcriptional Enhancers and Cancer Predisposition",
-    "authors": ["D Aran", "A Hellman"],
-    "journal": "Cell",
-    "year": 2013,
-    "doi": "10.1016/j.cell.2013.06.018",
-    "pub_type": "journal",
-    "featured": false,
-    "tags": ["epigenetics", "enhancers", "cancer"]
+    "tags": [
+      "review",
+      "epigenetics",
+      "cancer predisposition"
+    ]
   },
   {
     "title": "Aging Is Associated with Highly Defined Epigenetic Changes in the Human Epidermis",
-    "authors": ["G Raddatz", "S Hagemann", "D Aran", "J Söhle", "PP Kulkarni", "L Kaderali", "A Hellman", "M Winnefeld", "F Lyko"],
+    "authors": [
+      "G Raddatz",
+      "S Hagemann",
+      "D Aran",
+      "J S\u00f6hle",
+      "PP Kulkarni",
+      "L Kaderali",
+      "A Hellman",
+      "M Winnefeld",
+      "F Lyko"
+    ],
     "journal": "Epigenetics & Chromatin",
     "year": 2013,
     "doi": "10.1186/1756-8935-6-36",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["epigenetics", "aging", "epidermis"]
+    "tags": [
+      "epigenetics",
+      "aging",
+      "epidermis"
+    ]
+  },
+  {
+    "title": "DNA Methylation of Distal Regulatory Sites Characterizes Dysregulation of Cancer Genes",
+    "authors": [
+      "D Aran",
+      "S Sabato",
+      "A Hellman"
+    ],
+    "journal": "Genome Biology",
+    "year": 2013,
+    "doi": "10.1186/gb-2013-14-3-r21",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "epigenetics",
+      "cancer",
+      "regulation"
+    ],
+    "cited_by_count": 360
+  },
+  {
+    "title": "DNA Methylation of Transcriptional Enhancers and Cancer Predisposition",
+    "authors": [
+      "D Aran",
+      "A Hellman"
+    ],
+    "journal": "Cell",
+    "year": 2013,
+    "doi": "10.1016/j.cell.2013.06.018",
+    "pub_type": "journal",
+    "featured": false,
+    "tags": [
+      "epigenetics",
+      "enhancers",
+      "cancer"
+    ],
+    "cited_by_count": 173
   },
   {
     "title": "Genome-Wide Survey Reveals Predisposing Diabetes Type 2-Related DNA Methylation Variations in Human Peripheral Blood",
-    "authors": ["G Toperoff", "D Aran", "JD Kark", "M Rosenberg", "T Dubnikov", "B Nissan", "J Wainstein", "Y Friedlander", "E Levy-Lahad", "B Glaser", "A Hellman"],
+    "authors": [
+      "G Toperoff",
+      "D Aran",
+      "JD Kark",
+      "M Rosenberg",
+      "T Dubnikov",
+      "B Nissan",
+      "J Wainstein",
+      "Y Friedlander",
+      "E Levy-Lahad",
+      "B Glaser",
+      "A Hellman"
+    ],
     "journal": "Human Molecular Genetics",
     "year": 2012,
     "doi": "10.1093/hmg/ddr472",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["epigenetics", "diabetes", "GWAS"]
+    "tags": [
+      "epigenetics",
+      "diabetes",
+      "GWAS"
+    ],
+    "cited_by_count": 353
   },
   {
     "title": "Replication Timing-Related and Gene Body-Specific Methylation of Active Human Genes",
-    "authors": ["D Aran", "G Toperoff", "M Rosenberg", "A Hellman"],
+    "authors": [
+      "D Aran",
+      "G Toperoff",
+      "M Rosenberg",
+      "A Hellman"
+    ],
     "journal": "Human Molecular Genetics",
     "year": 2011,
     "doi": "10.1093/hmg/ddq513",
     "pub_type": "journal",
     "featured": false,
-    "tags": ["epigenetics", "replication timing", "methylation"]
+    "tags": [
+      "epigenetics",
+      "replication timing",
+      "methylation"
+    ],
+    "cited_by_count": 299
   }
 ]

@@ -33,6 +33,7 @@ export type Publication = {
   pub_type: "journal" | "review" | "preprint" | "conference" | "book_chapter";
   featured: boolean;
   tags: string[];
+  cited_by_count?: number;
 };
 
 export type NewsItem = {

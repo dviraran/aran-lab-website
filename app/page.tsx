@@ -102,8 +102,8 @@ export default function Home() {
               <Image
                 src="/images/lab-group.jpg"
                 alt="Aran Lab group photo"
-                width={360}
-                height={240}
+                width={520}
+                height={350}
                 className="rounded-xl shadow-2xl border-2 border-white/20"
               />
             </div>

@@ -119,8 +119,8 @@
     "display_order": 10
   },
   {
-    "slug": "nethanel-arussy",
-    "name": "Nethanel Arussy",
+    "slug": "netanel-arussy",
+    "name": "Netanel Arussy",
     "role": "MSc Student",
     "group_type": "current",
     "bio": "MSc student in Computer Science (2024–present). Working on next best action recommendation in clinical predictions using SHAP-based machine learning for early decision support.",

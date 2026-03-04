@@ -93,9 +93,26 @@ export default function Home() {
                   Meet the Team
                 </Link>
               </div>
-              <div className="mt-8 text-sm text-white/40">
-                Faculty of Biology &middot; Technion &ndash;
-                Israel Institute of Technology
+              <div className="mt-10 flex items-center gap-6">
+                <Image
+                  src="/images/logos/aran-lab-logo.png"
+                  alt="Aran Lab logo"
+                  width={60}
+                  height={60}
+                  className="rounded-lg bg-white/10 p-1"
+                />
+                <Image
+                  src="/images/logos/cs-faculty.jpg"
+                  alt="Taub Faculty of Computer Science"
+                  width={120}
+                  height={40}
+                  className="rounded bg-white p-1.5 h-[44px] w-auto object-contain"
+                />
+              </div>
+              <div className="mt-4 text-sm text-white/50 leading-relaxed">
+                Faculty of Biology<br />
+                Taub Faculty of Computer Science<br />
+                Technion &ndash; Israel Institute of Technology
               </div>
             </div>
             <div className="shrink-0 hidden md:block">

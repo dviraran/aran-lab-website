@@ -56,11 +56,11 @@ export default function GalleryGrid({ photos }: { photos: GalleryPhoto[] }) {
 
   return (
     <>
-      <div className="columns-1 sm:columns-2 lg:columns-3 gap-4 space-y-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {photos.map((photo, i) => (
           <div
             key={i}
-            className="break-inside-avoid rounded-xl overflow-hidden border border-lab-border bg-white cursor-pointer hover:shadow-lg transition-shadow"
+            className="rounded-xl overflow-hidden border border-lab-border bg-white cursor-pointer hover:shadow-lg transition-shadow"
             onClick={() => setSelectedIndex(i)}
           >
             <Image

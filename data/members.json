@@ -20,6 +20,7 @@
     "group_type": "current",
     "bio": "Scientist and Lab Manager. Manages day-to-day lab operations and supports all research activities.",
     "photo_url": "/images/members/michal-brunwasser-meirom.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/michal-meirom-55b08250/",
     "research_focus": "Single-cell transcriptomics, wet lab research",
     "display_order": 2
   },
@@ -75,6 +76,7 @@
     "group_type": "current",
     "bio": "MSc student. Studying transcriptomic signatures of UBB+1 in sporadic Alzheimer's disease models using brain organoids. Joint supervision with Prof. Michael Glickman.",
     "photo_url": "/images/members/ornit-bhonkar.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/ornitb",
     "research_focus": "Alzheimer's disease, transcriptomics, ubiquitin",
     "display_order": 13
   },
@@ -85,6 +87,7 @@
     "group_type": "current",
     "bio": "PhD candidate. Research focuses on computational approaches for biomedical data analysis.",
     "photo_url": "/images/members/joshua-davies.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/joshua-z-davies",
     "research_focus": "Single-cell RNA-seq",
     "display_order": 7
   },
@@ -105,6 +108,7 @@
     "group_type": "current",
     "bio": "PhD student in Medicine (2024–present). Developing an AI-driven decision support tool for neurologists. Joint supervision with Dr. Shahar Shelly.",
     "photo_url": "/images/members/moran-sorka.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/moran-sorka",
     "research_focus": "AI for neurology, clinical decision support",
     "display_order": 9
   },
@@ -125,6 +129,7 @@
     "group_type": "current",
     "bio": "MSc student in Computer Science (2024–present). Working on next best action recommendation in clinical predictions using SHAP-based machine learning for early decision support.",
     "photo_url": "/images/members/netanel-arrusy.jpeg",
+    "linkedin_url": "https://www.linkedin.com/in/nathaniel-arussy",
     "research_focus": "scRNA-seq trajectories",
     "display_order": 11
   },
@@ -135,6 +140,7 @@
     "group_type": "current",
     "bio": "MSc student in Electrical Engineering (2024–present). Working on utilizing AI for nutrition intake monitoring in hospitalized patients.",
     "photo_url": "/images/members/zohar-shnaider.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/zohar-shnaider-00a141197",
     "research_focus": "AI in healthcare, nutritional monitoring",
     "display_order": 12
   },
@@ -145,6 +151,7 @@
     "group_type": "current",
     "bio": "MSc student.",
     "photo_url": "/images/members/omer-gotfrid.jpg",
+    "linkedin_url": "https://www.linkedin.com/in/omer-gotfrid-6205611a9",
     "research_focus": "",
     "display_order": 13
   },
